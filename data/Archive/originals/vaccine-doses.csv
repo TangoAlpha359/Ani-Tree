@@ -1,0 +1,4694 @@
+Entity,Day,total_vaccinations
+Alabama,1/12/2021,78134
+Alabama,1/13/2021,84040
+Alabama,1/14/2021,92300
+Alabama,1/15/2021,100567
+Alabama,1/19/2021,130795
+Alabama,1/20/2021,139200
+Alabama,1/21/2021,165919
+Alabama,1/22/2021,199314
+Alabama,1/23/2021,221540
+Alabama,1/24/2021,243737
+Alabama,1/25/2021,250612
+Alabama,1/26/2021,254959
+Alabama,1/27/2021,266444
+Alabama,1/28/2021,278993
+Alabama,1/29/2021,300915
+Alabama,1/30/2021,342436
+Alabama,1/31/2021,353974
+Alabama,2/1/2021,358280
+Alabama,2/2/2021,371882
+Alabama,2/3/2021,388339
+Alabama,2/4/2021,408428
+Alabama,2/5/2021,430597
+Alabama,2/6/2021,455173
+Alabama,2/7/2021,462332
+Alabama,2/8/2021,467636
+Alabama,2/9/2021,490969
+Alabama,2/10/2021,515802
+Alabama,2/11/2021,543237
+Alabama,2/12/2021,571115
+Alabama,2/13/2021,601159
+Alabama,2/14/2021,612254
+Alabama,2/16/2021,636682
+Alabama,2/17/2021,650020
+Alabama,2/18/2021,672038
+Alabama,2/19/2021,739132
+Alabama,2/20/2021,776936
+Alabama,2/21/2021,788613
+Alabama,2/22/2021,793614
+Alabama,2/23/2021,815108
+Alabama,2/24/2021,839703
+Alabama,2/25/2021,864757
+Alabama,2/26/2021,893859
+Alabama,2/27/2021,931090
+Alabama,2/28/2021,942502
+Alabama,3/1/2021,948393
+Alabama,3/2/2021,972161
+Alabama,3/3/2021,1000031
+Alabama,3/4/2021,1032171
+Alabama,3/5/2021,1064578
+Alabama,3/6/2021,1099697
+Alabama,3/7/2021,1110132
+Alabama,3/8/2021,1116676
+Alabama,3/9/2021,1140984
+Alabama,3/10/2021,1173820
+Alabama,3/11/2021,1209802
+Alabama,3/12/2021,1249205
+Alabama,3/13/2021,1288242
+Alabama,3/14/2021,1298612
+Alabama,3/15/2021,1306419
+Alabama,3/16/2021,1332298
+Alabama,3/17/2021,1363987
+Alabama,3/18/2021,1390066
+Alabama,3/19/2021,1426696
+Alabama,3/20/2021,1460782
+Alabama,3/21/2021,1472666
+Alabama,3/22/2021,1479271
+Alabama,3/23/2021,1509445
+Alabama,3/24/2021,1542416
+Alabama,3/25/2021,1579091
+Alabama,3/26/2021,1611404
+Alabama,3/27/2021,1645858
+Alabama,3/28/2021,1659102
+Alaska,1/12/2021,35838
+Alaska,1/13/2021,38680
+Alaska,1/14/2021,42596
+Alaska,1/15/2021,49039
+Alaska,1/19/2021,66331
+Alaska,1/20/2021,68293
+Alaska,1/21/2021,71907
+Alaska,1/22/2021,81096
+Alaska,1/23/2021,88344
+Alaska,1/24/2021,94257
+Alaska,1/25/2021,97031
+Alaska,1/26/2021,98149
+Alaska,1/27/2021,101597
+Alaska,1/28/2021,105858
+Alaska,1/29/2021,110396
+Alaska,1/30/2021,115268
+Alaska,1/31/2021,119590
+Alaska,2/1/2021,122020
+Alaska,2/2/2021,123443
+Alaska,2/3/2021,125765
+Alaska,2/4/2021,129936
+Alaska,2/5/2021,134002
+Alaska,2/6/2021,139147
+Alaska,2/7/2021,146082
+Alaska,2/8/2021,150934
+Alaska,2/9/2021,152874
+Alaska,2/10/2021,156255
+Alaska,2/11/2021,162273
+Alaska,2/12/2021,167436
+Alaska,2/13/2021,175138
+Alaska,2/14/2021,183831
+Alaska,2/16/2021,191008
+Alaska,2/17/2021,193617
+Alaska,2/18/2021,199151
+Alaska,2/19/2021,216223
+Alaska,2/20/2021,227403
+Alaska,2/21/2021,235141
+Alaska,2/22/2021,238279
+Alaska,2/23/2021,239927
+Alaska,2/24/2021,243650
+Alaska,2/25/2021,249559
+Alaska,2/26/2021,254334
+Alaska,2/27/2021,259538
+Alaska,2/28/2021,264741
+Alaska,3/1/2021,268406
+Alaska,3/2/2021,269941
+Alaska,3/3/2021,273350
+Alaska,3/4/2021,276891
+Alaska,3/5/2021,281467
+Alaska,3/6/2021,288625
+Alaska,3/7/2021,295046
+Alaska,3/8/2021,298144
+Alaska,3/9/2021,302687
+Alaska,3/10/2021,307769
+Alaska,3/11/2021,313365
+Alaska,3/12/2021,318526
+Alaska,3/13/2021,324271
+Alaska,3/14/2021,333357
+Alaska,3/15/2021,337141
+Alaska,3/16/2021,339647
+Alaska,3/17/2021,345987
+Alaska,3/18/2021,351093
+Alaska,3/19/2021,356055
+Alaska,3/20/2021,362698
+Alaska,3/21/2021,372435
+Alaska,3/22/2021,375590
+Alaska,3/23/2021,376555
+Alaska,3/24/2021,379296
+Alaska,3/25/2021,384503
+Alaska,3/26/2021,389775
+Alaska,3/27/2021,395650
+Alaska,3/28/2021,401502
+American Samoa,1/12/2021,2124
+American Samoa,1/13/2021,2577
+American Samoa,1/14/2021,2971
+American Samoa,1/15/2021,3883
+American Samoa,1/19/2021,4756
+American Samoa,1/20/2021,5313
+American Samoa,1/21/2021,5664
+American Samoa,1/22/2021,6569
+American Samoa,1/23/2021,6831
+American Samoa,1/24/2021,8046
+American Samoa,1/25/2021,8046
+American Samoa,1/26/2021,8315
+American Samoa,1/27/2021,9085
+American Samoa,1/28/2021,9085
+American Samoa,1/29/2021,9925
+American Samoa,1/30/2021,9925
+American Samoa,1/31/2021,9925
+American Samoa,2/1/2021,10761
+American Samoa,2/2/2021,10761
+American Samoa,2/3/2021,11066
+American Samoa,2/4/2021,11257
+American Samoa,2/5/2021,12029
+American Samoa,2/6/2021,12259
+American Samoa,2/7/2021,12259
+American Samoa,2/8/2021,12259
+American Samoa,2/9/2021,12680
+American Samoa,2/10/2021,13318
+American Samoa,2/11/2021,13513
+American Samoa,2/12/2021,15032
+American Samoa,2/13/2021,15382
+American Samoa,2/14/2021,15382
+American Samoa,2/16/2021,16109
+American Samoa,2/17/2021,16269
+American Samoa,2/18/2021,16269
+American Samoa,2/19/2021,16269
+American Samoa,2/20/2021,17740
+American Samoa,2/21/2021,18778
+American Samoa,2/22/2021,18816
+American Samoa,2/23/2021,18816
+American Samoa,2/24/2021,19739
+American Samoa,2/25/2021,19739
+American Samoa,2/26/2021,20336
+American Samoa,2/27/2021,20338
+American Samoa,2/28/2021,20338
+American Samoa,3/1/2021,20338
+American Samoa,3/2/2021,21079
+American Samoa,3/3/2021,21079
+American Samoa,3/4/2021,21625
+American Samoa,3/5/2021,21625
+American Samoa,3/6/2021,21625
+American Samoa,3/7/2021,21625
+American Samoa,3/8/2021,21625
+American Samoa,3/9/2021,21625
+American Samoa,3/10/2021,23696
+American Samoa,3/11/2021,23696
+American Samoa,3/12/2021,23696
+American Samoa,3/13/2021,23696
+American Samoa,3/14/2021,23696
+American Samoa,3/15/2021,24300
+American Samoa,3/16/2021,24300
+American Samoa,3/17/2021,24300
+American Samoa,3/18/2021,24300
+American Samoa,3/19/2021,24300
+American Samoa,3/20/2021,24300
+American Samoa,3/21/2021,24300
+American Samoa,3/22/2021,27015
+American Samoa,3/23/2021,27263
+American Samoa,3/24/2021,27837
+American Samoa,3/25/2021,27864
+American Samoa,3/26/2021,28503
+American Samoa,3/27/2021,28527
+American Samoa,3/28/2021,28527
+Arizona,1/12/2021,141355
+Arizona,1/13/2021,154745
+Arizona,1/14/2021,173665
+Arizona,1/15/2021,197086
+Arizona,1/19/2021,266276
+Arizona,1/20/2021,281887
+Arizona,1/21/2021,303899
+Arizona,1/22/2021,329349
+Arizona,1/23/2021,360958
+Arizona,1/24/2021,390623
+Arizona,1/25/2021,413662
+Arizona,1/26/2021,430892
+Arizona,1/27/2021,458258
+Arizona,1/28/2021,487149
+Arizona,1/29/2021,521097
+Arizona,1/30/2021,557369
+Arizona,1/31/2021,594104
+Arizona,2/1/2021,620608
+Arizona,2/2/2021,631662
+Arizona,2/3/2021,656040
+Arizona,2/4/2021,686116
+Arizona,2/5/2021,719458
+Arizona,2/6/2021,766788
+Arizona,2/7/2021,809230
+Arizona,2/8/2021,841018
+Arizona,2/9/2021,863807
+Arizona,2/10/2021,897757
+Arizona,2/11/2021,941575
+Arizona,2/12/2021,990296
+Arizona,2/13/2021,1041021
+Arizona,2/14/2021,1089155
+Arizona,2/16/2021,1154583
+Arizona,2/17/2021,1164900
+Arizona,2/18/2021,1202770
+Arizona,2/19/2021,1376405
+Arizona,2/20/2021,1425295
+Arizona,2/21/2021,1469676
+Arizona,2/22/2021,1506572
+Arizona,2/23/2021,1525794
+Arizona,2/24/2021,1555942
+Arizona,2/25/2021,1607544
+Arizona,2/26/2021,1671294
+Arizona,2/27/2021,1728239
+Arizona,2/28/2021,1792447
+Arizona,3/1/2021,1849259
+Arizona,3/2/2021,1889742
+Arizona,3/3/2021,1930999
+Arizona,3/4/2021,1979929
+Arizona,3/5/2021,2038623
+Arizona,3/6/2021,2043739
+Arizona,3/7/2021,2162602
+Arizona,3/8/2021,2215219
+Arizona,3/9/2021,2245854
+Arizona,3/10/2021,2293559
+Arizona,3/11/2021,2350374
+Arizona,3/12/2021,2418267
+Arizona,3/13/2021,2484603
+Arizona,3/14/2021,2557630
+Arizona,3/15/2021,2605621
+Arizona,3/16/2021,2655283
+Arizona,3/17/2021,2697523
+Arizona,3/18/2021,2755436
+Arizona,3/19/2021,2760907
+Arizona,3/20/2021,2825939
+Arizona,3/21/2021,2893024
+Arizona,3/22/2021,2942907
+Arizona,3/23/2021,2970577
+Arizona,3/24/2021,3010048
+Arizona,3/25/2021,3106598
+Arizona,3/26/2021,3169061
+Arizona,3/27/2021,3239538
+Arizona,3/28/2021,3308671
+Arkansas,1/12/2021,40879
+Arkansas,1/13/2021,94854
+Arkansas,1/14/2021,108316
+Arkansas,1/15/2021,118338
+Arkansas,1/19/2021,142337
+Arkansas,1/20/2021,173312
+Arkansas,1/21/2021,173312
+Arkansas,1/22/2021,201676
+Arkansas,1/23/2021,201676
+Arkansas,1/24/2021,214240
+Arkansas,1/25/2021,221095
+Arkansas,1/26/2021,236290
+Arkansas,1/27/2021,252824
+Arkansas,1/28/2021,252824
+Arkansas,1/29/2021,269993
+Arkansas,1/30/2021,288651
+Arkansas,1/31/2021,303793
+Arkansas,2/1/2021,311230
+Arkansas,2/2/2021,314470
+Arkansas,2/3/2021,322447
+Arkansas,2/4/2021,338227
+Arkansas,2/5/2021,351175
+Arkansas,2/6/2021,374674
+Arkansas,2/7/2021,393445
+Arkansas,2/8/2021,401664
+Arkansas,2/9/2021,404127
+Arkansas,2/10/2021,418054
+Arkansas,2/11/2021,430803
+Arkansas,2/12/2021,447146
+Arkansas,2/13/2021,457386
+Arkansas,2/14/2021,472536
+Arkansas,2/16/2021,483438
+Arkansas,2/17/2021,486949
+Arkansas,2/18/2021,490737
+Arkansas,2/19/2021,517271
+Arkansas,2/20/2021,520904
+Arkansas,2/21/2021,528467
+Arkansas,2/22/2021,535413
+Arkansas,2/23/2021,540192
+Arkansas,2/24/2021,554466
+Arkansas,2/25/2021,572553
+Arkansas,2/26/2021,597990
+Arkansas,2/27/2021,622665
+Arkansas,2/28/2021,649311
+Arkansas,3/1/2021,661572
+Arkansas,3/2/2021,670815
+Arkansas,3/3/2021,687433
+Arkansas,3/4/2021,704368
+Arkansas,3/5/2021,723756
+Arkansas,3/6/2021,744139
+Arkansas,3/7/2021,765260
+Arkansas,3/8/2021,773357
+Arkansas,3/9/2021,782750
+Arkansas,3/10/2021,799184
+Arkansas,3/11/2021,800091
+Arkansas,3/12/2021,836608
+Arkansas,3/13/2021,882630
+Arkansas,3/14/2021,882630
+Arkansas,3/15/2021,892588
+Arkansas,3/16/2021,897059
+Arkansas,3/17/2021,912660
+Arkansas,3/18/2021,929862
+Arkansas,3/19/2021,952919
+Arkansas,3/20/2021,974973
+Arkansas,3/21/2021,999488
+Arkansas,3/22/2021,1008575
+Arkansas,3/23/2021,1012415
+Arkansas,3/24/2021,1032499
+Arkansas,3/25/2021,1056307
+Arkansas,3/26/2021,1086176
+Arkansas,3/27/2021,1114449
+Arkansas,3/28/2021,1143893
+Bureau of Prisons,1/12/2021,14663
+Bureau of Prisons,1/13/2021,15694
+Bureau of Prisons,1/14/2021,16118
+Bureau of Prisons,1/15/2021,16685
+Bureau of Prisons,1/19/2021,17628
+Bureau of Prisons,1/20/2021,19076
+Bureau of Prisons,1/21/2021,20838
+Bureau of Prisons,1/22/2021,21315
+Bureau of Prisons,1/23/2021,23345
+Bureau of Prisons,1/24/2021,24082
+Bureau of Prisons,1/25/2021,24360
+Bureau of Prisons,1/26/2021,25513
+Bureau of Prisons,1/27/2021,27326
+Bureau of Prisons,1/28/2021,28514
+Bureau of Prisons,1/29/2021,29754
+Bureau of Prisons,1/30/2021,30945
+Bureau of Prisons,1/31/2021,31285
+Bureau of Prisons,2/1/2021,31285
+Bureau of Prisons,2/2/2021,32349
+Bureau of Prisons,2/3/2021,34255
+Bureau of Prisons,2/4/2021,36195
+Bureau of Prisons,2/5/2021,38164
+Bureau of Prisons,2/6/2021,39616
+Bureau of Prisons,2/7/2021,40333
+Bureau of Prisons,2/8/2021,40333
+Bureau of Prisons,2/9/2021,41040
+Bureau of Prisons,2/10/2021,42751
+Bureau of Prisons,2/11/2021,44177
+Bureau of Prisons,2/12/2021,45617
+Bureau of Prisons,2/13/2021,46926
+Bureau of Prisons,2/14/2021,47564
+Bureau of Prisons,2/16/2021,48090
+Bureau of Prisons,2/17/2021,48614
+Bureau of Prisons,2/18/2021,49050
+Bureau of Prisons,2/19/2021,49913
+Bureau of Prisons,2/20/2021,51072
+Bureau of Prisons,2/21/2021,52266
+Bureau of Prisons,2/22/2021,52347
+Bureau of Prisons,2/23/2021,52743
+Bureau of Prisons,2/24/2021,53728
+Bureau of Prisons,2/25/2021,55100
+Bureau of Prisons,2/26/2021,57396
+Bureau of Prisons,2/27/2021,59234
+Bureau of Prisons,2/28/2021,60283
+Bureau of Prisons,3/1/2021,60283
+Bureau of Prisons,3/2/2021,61002
+Bureau of Prisons,3/3/2021,62745
+Bureau of Prisons,3/4/2021,66375
+Bureau of Prisons,3/5/2021,70129
+Bureau of Prisons,3/6/2021,71759
+Bureau of Prisons,3/7/2021,72174
+Bureau of Prisons,3/8/2021,72174
+Bureau of Prisons,3/9/2021,72539
+Bureau of Prisons,3/10/2021,73254
+Bureau of Prisons,3/11/2021,76224
+Bureau of Prisons,3/12/2021,78795
+Bureau of Prisons,3/13/2021,80683
+Bureau of Prisons,3/14/2021,80683
+Bureau of Prisons,3/15/2021,80683
+Bureau of Prisons,3/16/2021,81035
+Bureau of Prisons,3/17/2021,81950
+Bureau of Prisons,3/18/2021,84200
+Bureau of Prisons,3/19/2021,86342
+Bureau of Prisons,3/20/2021,88006
+Bureau of Prisons,3/21/2021,88862
+Bureau of Prisons,3/22/2021,89052
+Bureau of Prisons,3/23/2021,89232
+Bureau of Prisons,3/24/2021,90341
+Bureau of Prisons,3/25/2021,95200
+Bureau of Prisons,3/26/2021,98916
+Bureau of Prisons,3/27/2021,101156
+Bureau of Prisons,3/28/2021,101784
+California,1/12/2021,816301
+California,1/13/2021,891489
+California,1/14/2021,975293
+California,1/15/2021,1072959
+California,1/19/2021,1460430
+California,1/20/2021,1532329
+California,1/21/2021,1633875
+California,1/22/2021,1803679
+California,1/23/2021,2008220
+California,1/24/2021,2199908
+California,1/25/2021,2330633
+California,1/26/2021,2446577
+California,1/27/2021,2579666
+California,1/28/2021,2746876
+California,1/29/2021,2910562
+California,1/30/2021,3095781
+California,1/31/2021,3285351
+California,2/1/2021,3453284
+California,2/2/2021,3543817
+California,2/3/2021,3671316
+California,2/4/2021,3723803
+California,2/5/2021,3920632
+California,2/6/2021,4137600
+California,2/7/2021,4485166
+California,2/8/2021,4682862
+California,2/9/2021,4784478
+California,2/10/2021,4957297
+California,2/11/2021,5134864
+California,2/12/2021,5341104
+California,2/13/2021,5562553
+California,2/14/2021,5820388
+California,2/16/2021,6210992
+California,2/17/2021,6323011
+California,2/18/2021,6496140
+California,2/19/2021,6964603
+California,2/20/2021,7201713
+California,2/21/2021,7453468
+California,2/22/2021,7604725
+California,2/23/2021,7728120
+California,2/24/2021,7876011
+California,2/25/2021,8064121
+California,2/26/2021,8310945
+California,2/27/2021,8566470
+California,2/28/2021,8821044
+California,3/1/2021,9106077
+California,3/2/2021,9497125
+California,3/3/2021,9731169
+California,3/4/2021,9860209
+California,3/5/2021,10071476
+California,3/6/2021,10415023
+California,3/7/2021,10634752
+California,3/8/2021,10805474
+California,3/9/2021,10925581
+California,3/10/2021,11062505
+California,3/11/2021,11220508
+California,3/12/2021,11428034
+California,3/13/2021,11881857
+California,3/14/2021,11883375
+California,3/15/2021,12306608
+California,3/16/2021,12686451
+California,3/17/2021,13161027
+California,3/18/2021,13563094
+California,3/19/2021,13882984
+California,3/20/2021,14276125
+California,3/21/2021,14708175
+California,3/22/2021,15050673
+California,3/23/2021,15349039
+California,3/24/2021,15691888
+California,3/25/2021,16062266
+California,3/26/2021,16527440
+California,3/27/2021,16944916
+California,3/28/2021,17335016
+Colorado,1/12/2021,224428
+Colorado,1/13/2021,239665
+Colorado,1/14/2021,254706
+Colorado,1/15/2021,272233
+Colorado,1/19/2021,330292
+Colorado,1/20/2021,340438
+Colorado,1/21/2021,353194
+Colorado,1/22/2021,377283
+Colorado,1/23/2021,377283
+Colorado,1/24/2021,434496
+Colorado,1/25/2021,447880
+Colorado,1/26/2021,457746
+Colorado,1/27/2021,474527
+Colorado,1/28/2021,495706
+Colorado,1/29/2021,521879
+Colorado,1/30/2021,545356
+Colorado,1/31/2021,569234
+Colorado,2/1/2021,589787
+Colorado,2/2/2021,601347
+Colorado,2/3/2021,617125
+Colorado,2/4/2021,638923
+Colorado,2/5/2021,661703
+Colorado,2/6/2021,694860
+Colorado,2/7/2021,729895
+Colorado,2/8/2021,751960
+Colorado,2/9/2021,757560
+Colorado,2/10/2021,787041
+Colorado,2/11/2021,815108
+Colorado,2/12/2021,844620
+Colorado,2/13/2021,885581
+Colorado,2/14/2021,926807
+Colorado,2/16/2021,1000597
+Colorado,2/17/2021,1024167
+Colorado,2/18/2021,1053041
+Colorado,2/19/2021,1132448
+Colorado,2/20/2021,1167895
+Colorado,2/21/2021,1202161
+Colorado,2/22/2021,1231699
+Colorado,2/23/2021,1233466
+Colorado,2/24/2021,1268302
+Colorado,2/25/2021,1294236
+Colorado,2/26/2021,1323183
+Colorado,2/27/2021,1324715
+Colorado,2/28/2021,1371577
+Colorado,3/1/2021,1412910
+Colorado,3/2/2021,1428854
+Colorado,3/3/2021,1462053
+Colorado,3/4/2021,1494910
+Colorado,3/5/2021,1528864
+Colorado,3/6/2021,1580162
+Colorado,3/7/2021,1626499
+Colorado,3/8/2021,1627458
+Colorado,3/9/2021,1650716
+Colorado,3/10/2021,1694476
+Colorado,3/11/2021,1764066
+Colorado,3/12/2021,1817050
+Colorado,3/13/2021,1878538
+Colorado,3/14/2021,1878639
+Colorado,3/15/2021,1933717
+Colorado,3/16/2021,1948333
+Colorado,3/17/2021,1987533
+Colorado,3/18/2021,2029213
+Colorado,3/19/2021,2080284
+Colorado,3/20/2021,2188145
+Colorado,3/21/2021,2250372
+Colorado,3/22/2021,2276660
+Colorado,3/23/2021,2310425
+Colorado,3/24/2021,2344091
+Colorado,3/25/2021,2388899
+Colorado,3/26/2021,2443350
+Colorado,3/27/2021,2500874
+Colorado,3/28/2021,2569087
+Connecticut,1/12/2021,151395
+Connecticut,1/13/2021,161875
+Connecticut,1/14/2021,171897
+Connecticut,1/15/2021,185866
+Connecticut,1/19/2021,229524
+Connecticut,1/20/2021,243140
+Connecticut,1/21/2021,264707
+Connecticut,1/22/2021,287440
+Connecticut,1/23/2021,306796
+Connecticut,1/24/2021,321737
+Connecticut,1/25/2021,331264
+Connecticut,1/26/2021,342643
+Connecticut,1/27/2021,360991
+Connecticut,1/28/2021,381160
+Connecticut,1/29/2021,403370
+Connecticut,1/30/2021,421191
+Connecticut,1/31/2021,436842
+Connecticut,2/1/2021,449253
+Connecticut,2/2/2021,456090
+Connecticut,2/3/2021,465008
+Connecticut,2/4/2021,481826
+Connecticut,2/5/2021,502347
+Connecticut,2/6/2021,519400
+Connecticut,2/7/2021,533941
+Connecticut,2/8/2021,542414
+Connecticut,2/9/2021,554322
+Connecticut,2/10/2021,574750
+Connecticut,2/11/2021,600249
+Connecticut,2/12/2021,626678
+Connecticut,2/13/2021,654766
+Connecticut,2/14/2021,674704
+Connecticut,2/16/2021,711142
+Connecticut,2/17/2021,738191
+Connecticut,2/18/2021,767183
+Connecticut,2/19/2021,822615
+Connecticut,2/20/2021,847820
+Connecticut,2/21/2021,860534
+Connecticut,2/22/2021,882777
+Connecticut,2/23/2021,892882
+Connecticut,2/24/2021,912033
+Connecticut,2/25/2021,925946
+Connecticut,2/26/2021,954153
+Connecticut,2/27/2021,980211
+Connecticut,2/28/2021,1004467
+Connecticut,3/1/2021,1031305
+Connecticut,3/2/2021,1040154
+Connecticut,3/3/2021,1061375
+Connecticut,3/4/2021,1087313
+Connecticut,3/5/2021,1121517
+Connecticut,3/6/2021,1157114
+Connecticut,3/7/2021,1195617
+Connecticut,3/8/2021,1228865
+Connecticut,3/9/2021,1245687
+Connecticut,3/10/2021,1272581
+Connecticut,3/11/2021,1304302
+Connecticut,3/12/2021,1345350
+Connecticut,3/13/2021,1411525
+Connecticut,3/14/2021,1411532
+Connecticut,3/15/2021,1442439
+Connecticut,3/16/2021,1460334
+Connecticut,3/17/2021,1483587
+Connecticut,3/18/2021,1514945
+Connecticut,3/19/2021,1551481
+Connecticut,3/20/2021,1586484
+Connecticut,3/21/2021,1623090
+Connecticut,3/22/2021,1658338
+Connecticut,3/23/2021,1676905
+Connecticut,3/24/2021,1701298
+Connecticut,3/25/2021,1737160
+Connecticut,3/26/2021,1774045
+Connecticut,3/27/2021,1813854
+Connecticut,3/28/2021,1854289
+Delaware,1/12/2021,26410
+Delaware,1/13/2021,28413
+Delaware,1/14/2021,31090
+Delaware,1/15/2021,31090
+Delaware,1/19/2021,42557
+Delaware,1/20/2021,45640
+Delaware,1/21/2021,49369
+Delaware,1/22/2021,54257
+Delaware,1/23/2021,60023
+Delaware,1/24/2021,64186
+Delaware,1/25/2021,66914
+Delaware,1/26/2021,68507
+Delaware,1/27/2021,77449
+Delaware,1/28/2021,82289
+Delaware,1/29/2021,87300
+Delaware,1/30/2021,92509
+Delaware,1/31/2021,99954
+Delaware,2/1/2021,102697
+Delaware,2/2/2021,103770
+Delaware,2/3/2021,107544
+Delaware,2/4/2021,110784
+Delaware,2/5/2021,114226
+Delaware,2/6/2021,118475
+Delaware,2/7/2021,123428
+Delaware,2/8/2021,126650
+Delaware,2/9/2021,127523
+Delaware,2/10/2021,130116
+Delaware,2/11/2021,133370
+Delaware,2/12/2021,136591
+Delaware,2/13/2021,142103
+Delaware,2/14/2021,146437
+Delaware,2/16/2021,152387
+Delaware,2/17/2021,155111
+Delaware,2/18/2021,159845
+Delaware,2/19/2021,175305
+Delaware,2/20/2021,180600
+Delaware,2/21/2021,180940
+Delaware,2/22/2021,183901
+Delaware,2/23/2021,186619
+Delaware,2/24/2021,189836
+Delaware,2/25/2021,195534
+Delaware,2/26/2021,203745
+Delaware,2/27/2021,212739
+Delaware,2/28/2021,219312
+Delaware,3/1/2021,225374
+Delaware,3/2/2021,225417
+Delaware,3/3/2021,237669
+Delaware,3/4/2021,246194
+Delaware,3/5/2021,255036
+Delaware,3/6/2021,264601
+Delaware,3/7/2021,275467
+Delaware,3/8/2021,280674
+Delaware,3/9/2021,285101
+Delaware,3/10/2021,285262
+Delaware,3/11/2021,299695
+Delaware,3/12/2021,307982
+Delaware,3/13/2021,317790
+Delaware,3/14/2021,317790
+Delaware,3/15/2021,333896
+Delaware,3/16/2021,338429
+Delaware,3/17/2021,346179
+Delaware,3/18/2021,354571
+Delaware,3/19/2021,362023
+Delaware,3/20/2021,372165
+Delaware,3/21/2021,382342
+Delaware,3/22/2021,389157
+Delaware,3/23/2021,389157
+Delaware,3/24/2021,397204
+Delaware,3/25/2021,406635
+Delaware,3/26/2021,417566
+Delaware,3/27/2021,428136
+Delaware,3/28/2021,438768
+Dept of Defense,1/12/2021,139439
+Dept of Defense,1/13/2021,139993
+Dept of Defense,1/14/2021,179724
+Dept of Defense,1/15/2021,201485
+Dept of Defense,1/19/2021,254778
+Dept of Defense,1/20/2021,256867
+Dept of Defense,1/21/2021,274473
+Dept of Defense,1/22/2021,292490
+Dept of Defense,1/23/2021,311567
+Dept of Defense,1/24/2021,336450
+Dept of Defense,1/25/2021,346180
+Dept of Defense,1/26/2021,346180
+Dept of Defense,1/27/2021,366010
+Dept of Defense,1/28/2021,389927
+Dept of Defense,1/29/2021,415720
+Dept of Defense,1/30/2021,449958
+Dept of Defense,1/31/2021,481172
+Dept of Defense,2/1/2021,485125
+Dept of Defense,2/2/2021,490377
+Dept of Defense,2/3/2021,508965
+Dept of Defense,2/4/2021,530849
+Dept of Defense,2/5/2021,559379
+Dept of Defense,2/6/2021,588731
+Dept of Defense,2/7/2021,621487
+Dept of Defense,2/8/2021,632927
+Dept of Defense,2/9/2021,637359
+Dept of Defense,2/10/2021,657414
+Dept of Defense,2/11/2021,679431
+Dept of Defense,2/12/2021,701736
+Dept of Defense,2/13/2021,726338
+Dept of Defense,2/14/2021,751746
+Dept of Defense,2/16/2021,754935
+Dept of Defense,2/17/2021,759117
+Dept of Defense,2/18/2021,791494
+Dept of Defense,2/19/2021,810065
+Dept of Defense,2/20/2021,830843
+Dept of Defense,2/21/2021,854728
+Dept of Defense,2/22/2021,865896
+Dept of Defense,2/23/2021,868322
+Dept of Defense,2/24/2021,887011
+Dept of Defense,2/25/2021,907189
+Dept of Defense,2/26/2021,928797
+Dept of Defense,2/27/2021,957910
+Dept of Defense,2/28/2021,992748
+Dept of Defense,3/1/2021,995054
+Dept of Defense,3/2/2021,996120
+Dept of Defense,3/3/2021,1017839
+Dept of Defense,3/4/2021,1039783
+Dept of Defense,3/5/2021,1065268
+Dept of Defense,3/6/2021,1094565
+Dept of Defense,3/7/2021,1130833
+Dept of Defense,3/8/2021,1141841
+Dept of Defense,3/9/2021,1320734
+Dept of Defense,3/10/2021,1343861
+Dept of Defense,3/11/2021,1374234
+Dept of Defense,3/12/2021,1403967
+Dept of Defense,3/13/2021,1439663
+Dept of Defense,3/14/2021,1439663
+Dept of Defense,3/15/2021,1495339
+Dept of Defense,3/16/2021,1506702
+Dept of Defense,3/17/2021,1531345
+Dept of Defense,3/18/2021,1562724
+Dept of Defense,3/19/2021,1593498
+Dept of Defense,3/20/2021,1630049
+Dept of Defense,3/21/2021,1673652
+Dept of Defense,3/22/2021,1679133
+Dept of Defense,3/23/2021,1682536
+Dept of Defense,3/24/2021,1694545
+Dept of Defense,3/25/2021,1712296
+Dept of Defense,3/26/2021,1785851
+Dept of Defense,3/27/2021,1827620
+Dept of Defense,3/28/2021,1873990
+District of Columbia,1/12/2021,29812
+District of Columbia,1/13/2021,33049
+District of Columbia,1/14/2021,36679
+District of Columbia,1/15/2021,39934
+District of Columbia,1/19/2021,49988
+District of Columbia,1/20/2021,51733
+District of Columbia,1/21/2021,55108
+District of Columbia,1/22/2021,56864
+District of Columbia,1/23/2021,59793
+District of Columbia,1/24/2021,62391
+District of Columbia,1/25/2021,64194
+District of Columbia,1/26/2021,64748
+District of Columbia,1/27/2021,68086
+District of Columbia,1/28/2021,70839
+District of Columbia,1/29/2021,73328
+District of Columbia,1/30/2021,76672
+District of Columbia,1/31/2021,80526
+District of Columbia,2/1/2021,82519
+District of Columbia,2/2/2021,83553
+District of Columbia,2/3/2021,85065
+District of Columbia,2/4/2021,94095
+District of Columbia,2/5/2021,98862
+District of Columbia,2/6/2021,102031
+District of Columbia,2/7/2021,105819
+District of Columbia,2/8/2021,108475
+District of Columbia,2/9/2021,108475
+District of Columbia,2/10/2021,108475
+District of Columbia,2/11/2021,111720
+District of Columbia,2/12/2021,114110
+District of Columbia,2/13/2021,116261
+District of Columbia,2/14/2021,121313
+District of Columbia,2/16/2021,126500
+District of Columbia,2/17/2021,128460
+District of Columbia,2/18/2021,130437
+District of Columbia,2/19/2021,157111
+District of Columbia,2/20/2021,159640
+District of Columbia,2/21/2021,162674
+District of Columbia,2/22/2021,164207
+District of Columbia,2/23/2021,166724
+District of Columbia,2/24/2021,170343
+District of Columbia,2/25/2021,173030
+District of Columbia,2/26/2021,176044
+District of Columbia,2/27/2021,184748
+District of Columbia,2/28/2021,194746
+District of Columbia,3/1/2021,198047
+District of Columbia,3/2/2021,199212
+District of Columbia,3/3/2021,202090
+District of Columbia,3/4/2021,207421
+District of Columbia,3/5/2021,211736
+District of Columbia,3/6/2021,220634
+District of Columbia,3/7/2021,225875
+District of Columbia,3/8/2021,230110
+District of Columbia,3/9/2021,232666
+District of Columbia,3/10/2021,238189
+District of Columbia,3/11/2021,244060
+District of Columbia,3/12/2021,250090
+District of Columbia,3/13/2021,256529
+District of Columbia,3/14/2021,264499
+District of Columbia,3/15/2021,271191
+District of Columbia,3/16/2021,274424
+District of Columbia,3/17/2021,281538
+District of Columbia,3/18/2021,285546
+District of Columbia,3/19/2021,291022
+District of Columbia,3/20/2021,296647
+District of Columbia,3/21/2021,302692
+District of Columbia,3/22/2021,306996
+District of Columbia,3/23/2021,309362
+District of Columbia,3/24/2021,313341
+District of Columbia,3/25/2021,320173
+District of Columbia,3/26/2021,327007
+District of Columbia,3/27/2021,334783
+District of Columbia,3/28/2021,344954
+Federated States of Micronesia,1/12/2021,424
+Federated States of Micronesia,1/13/2021,565
+Federated States of Micronesia,1/14/2021,605
+Federated States of Micronesia,1/15/2021,694
+Federated States of Micronesia,1/19/2021,1436
+Federated States of Micronesia,1/20/2021,1756
+Federated States of Micronesia,1/21/2021,2087
+Federated States of Micronesia,1/22/2021,2514
+Federated States of Micronesia,1/23/2021,2752
+Federated States of Micronesia,1/24/2021,2752
+Federated States of Micronesia,1/25/2021,2758
+Federated States of Micronesia,1/26/2021,2977
+Federated States of Micronesia,1/27/2021,3241
+Federated States of Micronesia,1/28/2021,3502
+Federated States of Micronesia,1/29/2021,3965
+Federated States of Micronesia,1/30/2021,3965
+Federated States of Micronesia,1/31/2021,3965
+Federated States of Micronesia,2/1/2021,5110
+Federated States of Micronesia,2/2/2021,5726
+Federated States of Micronesia,2/3/2021,6254
+Federated States of Micronesia,2/4/2021,6699
+Federated States of Micronesia,2/5/2021,7005
+Federated States of Micronesia,2/6/2021,7335
+Federated States of Micronesia,2/7/2021,7415
+Federated States of Micronesia,2/8/2021,7449
+Federated States of Micronesia,2/9/2021,7725
+Federated States of Micronesia,2/10/2021,8017
+Federated States of Micronesia,2/11/2021,8365
+Federated States of Micronesia,2/12/2021,8751
+Federated States of Micronesia,2/13/2021,9230
+Federated States of Micronesia,2/14/2021,9415
+Federated States of Micronesia,2/16/2021,9980
+Federated States of Micronesia,2/17/2021,10603
+Federated States of Micronesia,2/18/2021,11119
+Federated States of Micronesia,2/19/2021,11590
+Federated States of Micronesia,2/20/2021,11590
+Federated States of Micronesia,2/21/2021,12196
+Federated States of Micronesia,2/22/2021,12196
+Federated States of Micronesia,2/23/2021,12196
+Federated States of Micronesia,2/24/2021,12999
+Federated States of Micronesia,2/25/2021,13320
+Federated States of Micronesia,2/26/2021,13819
+Federated States of Micronesia,2/27/2021,14317
+Federated States of Micronesia,2/28/2021,14715
+Federated States of Micronesia,3/1/2021,15022
+Federated States of Micronesia,3/2/2021,15705
+Federated States of Micronesia,3/3/2021,16189
+Federated States of Micronesia,3/4/2021,16578
+Federated States of Micronesia,3/5/2021,17098
+Federated States of Micronesia,3/6/2021,17624
+Federated States of Micronesia,3/7/2021,17745
+Federated States of Micronesia,3/8/2021,17745
+Federated States of Micronesia,3/9/2021,18133
+Federated States of Micronesia,3/10/2021,18423
+Federated States of Micronesia,3/11/2021,18689
+Federated States of Micronesia,3/12/2021,19086
+Federated States of Micronesia,3/13/2021,19580
+Federated States of Micronesia,3/14/2021,19796
+Federated States of Micronesia,3/15/2021,19841
+Federated States of Micronesia,3/16/2021,20450
+Federated States of Micronesia,3/17/2021,20882
+Federated States of Micronesia,3/18/2021,20882
+Federated States of Micronesia,3/19/2021,21624
+Federated States of Micronesia,3/20/2021,22129
+Federated States of Micronesia,3/21/2021,22217
+Federated States of Micronesia,3/22/2021,22255
+Federated States of Micronesia,3/23/2021,22488
+Federated States of Micronesia,3/24/2021,22767
+Federated States of Micronesia,3/25/2021,23026
+Federated States of Micronesia,3/26/2021,23460
+Federated States of Micronesia,3/27/2021,23778
+Federated States of Micronesia,3/28/2021,23908
+Florida,1/12/2021,633440
+Florida,1/13/2021,705398
+Florida,1/14/2021,774485
+Florida,1/15/2021,853081
+Florida,1/19/2021,1174685
+Florida,1/20/2021,1239975
+Florida,1/21/2021,1239975
+Florida,1/22/2021,1314377
+Florida,1/23/2021,1489003
+Florida,1/24/2021,1544794
+Florida,1/25/2021,1544794
+Florida,1/26/2021,1575490
+Florida,1/27/2021,1632491
+Florida,1/28/2021,1707251
+Florida,1/29/2021,1796246
+Florida,1/30/2021,1890198
+Florida,1/31/2021,1959626
+Florida,2/1/2021,2005378
+Florida,2/2/2021,2048143
+Florida,2/3/2021,2133168
+Florida,2/4/2021,2223754
+Florida,2/5/2021,2260744
+Florida,2/6/2021,2385839
+Florida,2/7/2021,2607527
+Florida,2/8/2021,2607527
+Florida,2/9/2021,2731300
+Florida,2/10/2021,2835535
+Florida,2/11/2021,2957730
+Florida,2/12/2021,3216044
+Florida,2/13/2021,3351430
+Florida,2/14/2021,3467856
+Florida,2/16/2021,3598996
+Florida,2/17/2021,3702569
+Florida,2/18/2021,3819224
+Florida,2/19/2021,4198451
+Florida,2/20/2021,4205898
+Florida,2/21/2021,4387051
+Florida,2/22/2021,4390626
+Florida,2/23/2021,4406005
+Florida,2/24/2021,4502702
+Florida,2/25/2021,4605201
+Florida,2/26/2021,4704530
+Florida,2/27/2021,4822353
+Florida,2/28/2021,5044420
+Florida,3/1/2021,5047960
+Florida,3/2/2021,5077891
+Florida,3/3/2021,5167346
+Florida,3/4/2021,5314200
+Florida,3/5/2021,5448653
+Florida,3/6/2021,5688357
+Florida,3/7/2021,5900450
+Florida,3/8/2021,5904827
+Florida,3/9/2021,5961421
+Florida,3/10/2021,6070173
+Florida,3/11/2021,6332072
+Florida,3/12/2021,6613352
+Florida,3/13/2021,7007792
+Florida,3/14/2021,7108286
+Florida,3/15/2021,7116355
+Florida,3/16/2021,7197889
+Florida,3/17/2021,7332554
+Florida,3/18/2021,7522691
+Florida,3/19/2021,7684142
+Florida,3/20/2021,7977789
+Florida,3/21/2021,8186888
+Florida,3/22/2021,8191294
+Florida,3/23/2021,8250717
+Florida,3/24/2021,8396727
+Florida,3/25/2021,8603007
+Florida,3/26/2021,8811431
+Florida,3/27/2021,9028641
+Florida,3/28/2021,9271008
+Georgia,1/12/2021,170571
+Georgia,1/13/2021,198756
+Georgia,1/14/2021,231305
+Georgia,1/15/2021,231305
+Georgia,1/19/2021,312336
+Georgia,1/20/2021,397048
+Georgia,1/21/2021,453862
+Georgia,1/22/2021,603486
+Georgia,1/23/2021,604067
+Georgia,1/24/2021,604067
+Georgia,1/25/2021,604067
+Georgia,1/26/2021,668589
+Georgia,1/27/2021,712866
+Georgia,1/28/2021,764211
+Georgia,1/29/2021,810291
+Georgia,1/30/2021,856746
+Georgia,1/31/2021,906186
+Georgia,2/1/2021,930517
+Georgia,2/2/2021,940066
+Georgia,2/3/2021,975038
+Georgia,2/4/2021,1008040
+Georgia,2/5/2021,1051622
+Georgia,2/6/2021,1098863
+Georgia,2/7/2021,1146024
+Georgia,2/8/2021,1167738
+Georgia,2/9/2021,1179950
+Georgia,2/10/2021,1223850
+Georgia,2/11/2021,1273015
+Georgia,2/12/2021,1273015
+Georgia,2/13/2021,1328795
+Georgia,2/14/2021,1437718
+Georgia,2/16/2021,1473440
+Georgia,2/17/2021,1473440
+Georgia,2/18/2021,1569216
+Georgia,2/19/2021,1720789
+Georgia,2/20/2021,1786755
+Georgia,2/21/2021,1850856
+Georgia,2/22/2021,1873683
+Georgia,2/23/2021,1880429
+Georgia,2/24/2021,1919262
+Georgia,2/25/2021,1961849
+Georgia,2/26/2021,2013769
+Georgia,2/27/2021,2070076
+Georgia,2/28/2021,2072451
+Georgia,3/1/2021,2072628
+Georgia,3/2/2021,2085047
+Georgia,3/3/2021,2133517
+Georgia,3/4/2021,2187289
+Georgia,3/5/2021,2253011
+Georgia,3/6/2021,2308087
+Georgia,3/7/2021,2366573
+Georgia,3/8/2021,2391999
+Georgia,3/9/2021,2406206
+Georgia,3/10/2021,2408998
+Georgia,3/11/2021,2483900
+Georgia,3/12/2021,2598432
+Georgia,3/13/2021,2681373
+Georgia,3/14/2021,2754347
+Georgia,3/15/2021,2790084
+Georgia,3/16/2021,2810272
+Georgia,3/17/2021,2814158
+Georgia,3/18/2021,2906563
+Georgia,3/19/2021,2910835
+Georgia,3/20/2021,3113334
+Georgia,3/21/2021,3207887
+Georgia,3/22/2021,3280952
+Georgia,3/23/2021,3281102
+Georgia,3/24/2021,3362513
+Georgia,3/25/2021,3434860
+Georgia,3/26/2021,3530980
+Georgia,3/27/2021,3621196
+Georgia,3/28/2021,3711950
+Guam,1/12/2021,3791
+Guam,1/13/2021,3791
+Guam,1/14/2021,3791
+Guam,1/15/2021,3791
+Guam,1/19/2021,3791
+Guam,1/20/2021,3791
+Guam,1/21/2021,3791
+Guam,1/22/2021,3791
+Guam,1/23/2021,3791
+Guam,1/24/2021,3791
+Guam,1/25/2021,3791
+Guam,1/26/2021,17306
+Guam,1/27/2021,18263
+Guam,1/28/2021,19520
+Guam,1/29/2021,21254
+Guam,1/30/2021,22454
+Guam,1/31/2021,22454
+Guam,2/1/2021,23445
+Guam,2/2/2021,24810
+Guam,2/3/2021,26068
+Guam,2/4/2021,26068
+Guam,2/5/2021,27369
+Guam,2/6/2021,28959
+Guam,2/7/2021,29572
+Guam,2/8/2021,29719
+Guam,2/9/2021,30923
+Guam,2/10/2021,32443
+Guam,2/11/2021,33993
+Guam,2/12/2021,35917
+Guam,2/13/2021,37750
+Guam,2/14/2021,38622
+Guam,2/16/2021,39504
+Guam,2/17/2021,41007
+Guam,2/18/2021,42671
+Guam,2/19/2021,46897
+Guam,2/20/2021,48387
+Guam,2/21/2021,48479
+Guam,2/22/2021,49587
+Guam,2/23/2021,50500
+Guam,2/24/2021,51514
+Guam,2/25/2021,52661
+Guam,2/26/2021,52701
+Guam,2/27/2021,54244
+Guam,2/28/2021,55213
+Guam,3/1/2021,55255
+Guam,3/2/2021,55402
+Guam,3/3/2021,55435
+Guam,3/4/2021,56131
+Guam,3/5/2021,56407
+Guam,3/6/2021,56477
+Guam,3/7/2021,56484
+Guam,3/8/2021,56587
+Guam,3/9/2021,58396
+Guam,3/10/2021,60379
+Guam,3/11/2021,62062
+Guam,3/12/2021,63697
+Guam,3/13/2021,65382
+Guam,3/14/2021,66513
+Guam,3/15/2021,66607
+Guam,3/16/2021,67081
+Guam,3/17/2021,68451
+Guam,3/18/2021,70056
+Guam,3/19/2021,71940
+Guam,3/20/2021,72069
+Guam,3/21/2021,72090
+Guam,3/22/2021,73973
+Guam,3/23/2021,75724
+Guam,3/24/2021,77636
+Guam,3/25/2021,79350
+Guam,3/26/2021,81396
+Guam,3/27/2021,81649
+Guam,3/28/2021,83164
+Hawaii,1/12/2021,33483
+Hawaii,1/13/2021,36605
+Hawaii,1/14/2021,47985
+Hawaii,1/15/2021,46958
+Hawaii,1/19/2021,63954
+Hawaii,1/20/2021,71944
+Hawaii,1/21/2021,79414
+Hawaii,1/22/2021,84793
+Hawaii,1/23/2021,84792
+Hawaii,1/24/2021,84792
+Hawaii,1/25/2021,92092
+Hawaii,1/26/2021,93760
+Hawaii,1/27/2021,97692
+Hawaii,1/28/2021,103944
+Hawaii,1/29/2021,111165
+Hawaii,1/30/2021,120502
+Hawaii,1/31/2021,129267
+Hawaii,2/1/2021,135836
+Hawaii,2/2/2021,137914
+Hawaii,2/3/2021,143686
+Hawaii,2/4/2021,151107
+Hawaii,2/5/2021,169713
+Hawaii,2/6/2021,179059
+Hawaii,2/7/2021,187048
+Hawaii,2/8/2021,194035
+Hawaii,2/9/2021,194035
+Hawaii,2/10/2021,194035
+Hawaii,2/11/2021,200618
+Hawaii,2/12/2021,208807
+Hawaii,2/13/2021,217780
+Hawaii,2/14/2021,225188
+Hawaii,2/16/2021,237172
+Hawaii,2/17/2021,240715
+Hawaii,2/18/2021,247392
+Hawaii,2/19/2021,301369
+Hawaii,2/20/2021,312730
+Hawaii,2/21/2021,322966
+Hawaii,2/22/2021,331321
+Hawaii,2/23/2021,333599
+Hawaii,2/24/2021,339771
+Hawaii,2/25/2021,348897
+Hawaii,2/26/2021,359108
+Hawaii,2/27/2021,370746
+Hawaii,2/28/2021,382798
+Hawaii,3/1/2021,389644
+Hawaii,3/2/2021,392771
+Hawaii,3/3/2021,399195
+Hawaii,3/4/2021,411264
+Hawaii,3/5/2021,421996
+Hawaii,3/6/2021,434343
+Hawaii,3/7/2021,436036
+Hawaii,3/8/2021,452988
+Hawaii,3/9/2021,464100
+Hawaii,3/10/2021,475859
+Hawaii,3/11/2021,489283
+Hawaii,3/12/2021,503482
+Hawaii,3/13/2021,517061
+Hawaii,3/14/2021,528035
+Hawaii,3/15/2021,538235
+Hawaii,3/16/2021,546123
+Hawaii,3/17/2021,559118
+Hawaii,3/18/2021,572716
+Hawaii,3/19/2021,587465
+Hawaii,3/20/2021,599643
+Hawaii,3/21/2021,610517
+Hawaii,3/22/2021,614208
+Hawaii,3/23/2021,621720
+Hawaii,3/24/2021,632086
+Hawaii,3/25/2021,642642
+Hawaii,3/26/2021,659606
+Hawaii,3/27/2021,660902
+Hawaii,3/28/2021,662115
+Idaho,1/12/2021,35845
+Idaho,1/13/2021,38872
+Idaho,1/14/2021,42586
+Idaho,1/15/2021,46636
+Idaho,1/19/2021,63975
+Idaho,1/20/2021,69267
+Idaho,1/21/2021,73372
+Idaho,1/22/2021,77988
+Idaho,1/23/2021,82640
+Idaho,1/24/2021,87128
+Idaho,1/25/2021,91271
+Idaho,1/26/2021,93766
+Idaho,1/27/2021,96991
+Idaho,1/28/2021,102800
+Idaho,1/29/2021,108873
+Idaho,1/30/2021,114729
+Idaho,1/31/2021,120880
+Idaho,2/1/2021,124377
+Idaho,2/2/2021,126648
+Idaho,2/3/2021,132384
+Idaho,2/4/2021,141897
+Idaho,2/5/2021,159394
+Idaho,2/6/2021,176220
+Idaho,2/7/2021,185681
+Idaho,2/8/2021,195591
+Idaho,2/9/2021,198826
+Idaho,2/10/2021,205379
+Idaho,2/11/2021,214063
+Idaho,2/12/2021,214063
+Idaho,2/13/2021,221585
+Idaho,2/14/2021,242295
+Idaho,2/16/2021,263625
+Idaho,2/17/2021,270169
+Idaho,2/18/2021,278474
+Idaho,2/19/2021,304647
+Idaho,2/20/2021,313466
+Idaho,2/21/2021,326336
+Idaho,2/22/2021,336243
+Idaho,2/23/2021,340444
+Idaho,2/24/2021,346534
+Idaho,2/25/2021,356987
+Idaho,2/26/2021,367113
+Idaho,2/27/2021,378401
+Idaho,2/28/2021,392370
+Idaho,3/1/2021,404250
+Idaho,3/2/2021,409641
+Idaho,3/3/2021,418956
+Idaho,3/4/2021,428196
+Idaho,3/5/2021,442491
+Idaho,3/6/2021,457434
+Idaho,3/7/2021,471043
+Idaho,3/8/2021,482273
+Idaho,3/9/2021,489220
+Idaho,3/10/2021,497534
+Idaho,3/11/2021,507965
+Idaho,3/12/2021,522505
+Idaho,3/13/2021,536191
+Idaho,3/14/2021,550174
+Idaho,3/15/2021,559659
+Idaho,3/16/2021,566079
+Idaho,3/17/2021,566777
+Idaho,3/18/2021,586497
+Idaho,3/19/2021,603043
+Idaho,3/20/2021,622341
+Idaho,3/21/2021,639606
+Idaho,3/22/2021,650437
+Idaho,3/23/2021,656932
+Idaho,3/24/2021,666389
+Idaho,3/25/2021,678747
+Idaho,3/26/2021,694887
+Idaho,3/27/2021,710876
+Idaho,3/28/2021,728042
+Illinois,1/12/2021,347005
+Illinois,1/13/2021,365859
+Illinois,1/14/2021,403666
+Illinois,1/15/2021,437765
+Illinois,1/19/2021,525261
+Illinois,1/20/2021,539926
+Illinois,1/21/2021,570527
+Illinois,1/22/2021,607502
+Illinois,1/23/2021,654752
+Illinois,1/24/2021,699072
+Illinois,1/25/2021,723203
+Illinois,1/26/2021,737989
+Illinois,1/27/2021,766659
+Illinois,1/28/2021,823325
+Illinois,1/29/2021,884502
+Illinois,1/30/2021,948804
+Illinois,1/31/2021,1011454
+Illinois,2/1/2021,1054814
+Illinois,2/2/2021,1073076
+Illinois,2/3/2021,1108571
+Illinois,2/4/2021,1178369
+Illinois,2/5/2021,1247521
+Illinois,2/6/2021,1329963
+Illinois,2/7/2021,1401585
+Illinois,2/8/2021,1457693
+Illinois,2/9/2021,1477780
+Illinois,2/10/2021,1539781
+Illinois,2/11/2021,1604830
+Illinois,2/12/2021,1674988
+Illinois,2/13/2021,1772568
+Illinois,2/14/2021,1854228
+Illinois,2/16/2021,1954382
+Illinois,2/17/2021,1996099
+Illinois,2/18/2021,2037388
+Illinois,2/19/2021,2174539
+Illinois,2/20/2021,2261482
+Illinois,2/21/2021,2339546
+Illinois,2/22/2021,2354395
+Illinois,2/23/2021,2416034
+Illinois,2/24/2021,2461385
+Illinois,2/25/2021,2519447
+Illinois,2/26/2021,2639826
+Illinois,2/27/2021,2735250
+Illinois,2/28/2021,2824209
+Illinois,3/1/2021,2906555
+Illinois,3/2/2021,2958947
+Illinois,3/3/2021,3022385
+Illinois,3/4/2021,3107699
+Illinois,3/5/2021,3204414
+Illinois,3/6/2021,3341021
+Illinois,3/7/2021,3473676
+Illinois,3/8/2021,3571808
+Illinois,3/9/2021,3601065
+Illinois,3/10/2021,3672596
+Illinois,3/11/2021,3777731
+Illinois,3/12/2021,3925271
+Illinois,3/13/2021,4197357
+Illinois,3/14/2021,4197470
+Illinois,3/15/2021,4297923
+Illinois,3/16/2021,4379055
+Illinois,3/17/2021,4469795
+Illinois,3/18/2021,4584510
+Illinois,3/19/2021,4683361
+Illinois,3/20/2021,4826260
+Illinois,3/21/2021,4960792
+Illinois,3/22/2021,5051382
+Illinois,3/23/2021,5096694
+Illinois,3/24/2021,5177472
+Illinois,3/25/2021,5287852
+Illinois,3/26/2021,5412272
+Illinois,3/27/2021,5542211
+Illinois,3/28/2021,5682011
+Indian Health Svc,1/12/2021,68387
+Indian Health Svc,1/13/2021,74462
+Indian Health Svc,1/14/2021,81726
+Indian Health Svc,1/15/2021,90245
+Indian Health Svc,1/19/2021,104140
+Indian Health Svc,1/20/2021,108975
+Indian Health Svc,1/21/2021,117297
+Indian Health Svc,1/22/2021,123534
+Indian Health Svc,1/23/2021,143678
+Indian Health Svc,1/24/2021,153784
+Indian Health Svc,1/25/2021,155529
+Indian Health Svc,1/26/2021,158282
+Indian Health Svc,1/27/2021,165764
+Indian Health Svc,1/28/2021,180226
+Indian Health Svc,1/29/2021,191109
+Indian Health Svc,1/30/2021,194962
+Indian Health Svc,1/31/2021,209747
+Indian Health Svc,2/1/2021,210664
+Indian Health Svc,2/2/2021,214183
+Indian Health Svc,2/3/2021,224095
+Indian Health Svc,2/4/2021,238594
+Indian Health Svc,2/5/2021,244323
+Indian Health Svc,2/6/2021,276062
+Indian Health Svc,2/7/2021,282039
+Indian Health Svc,2/8/2021,291338
+Indian Health Svc,2/9/2021,297375
+Indian Health Svc,2/10/2021,306717
+Indian Health Svc,2/11/2021,325336
+Indian Health Svc,2/12/2021,346969
+Indian Health Svc,2/13/2021,362802
+Indian Health Svc,2/14/2021,378614
+Indian Health Svc,2/16/2021,385284
+Indian Health Svc,2/17/2021,390833
+Indian Health Svc,2/18/2021,401516
+Indian Health Svc,2/19/2021,407039
+Indian Health Svc,2/20/2021,412073
+Indian Health Svc,2/21/2021,426034
+Indian Health Svc,2/22/2021,441876
+Indian Health Svc,2/23/2021,455371
+Indian Health Svc,2/24/2021,468627
+Indian Health Svc,2/25/2021,488731
+Indian Health Svc,2/26/2021,516471
+Indian Health Svc,2/27/2021,537180
+Indian Health Svc,2/28/2021,553652
+Indian Health Svc,3/1/2021,569259
+Indian Health Svc,3/2/2021,577710
+Indian Health Svc,3/3/2021,588253
+Indian Health Svc,3/4/2021,603339
+Indian Health Svc,3/5/2021,620761
+Indian Health Svc,3/6/2021,642492
+Indian Health Svc,3/7/2021,655254
+Indian Health Svc,3/8/2021,665997
+Indian Health Svc,3/9/2021,669504
+Indian Health Svc,3/10/2021,684185
+Indian Health Svc,3/11/2021,697130
+Indian Health Svc,3/12/2021,715356
+Indian Health Svc,3/13/2021,733344
+Indian Health Svc,3/14/2021,746005
+Indian Health Svc,3/15/2021,757075
+Indian Health Svc,3/16/2021,768056
+Indian Health Svc,3/17/2021,781325
+Indian Health Svc,3/18/2021,799030
+Indian Health Svc,3/19/2021,814515
+Indian Health Svc,3/20/2021,827880
+Indian Health Svc,3/21/2021,845754
+Indian Health Svc,3/22/2021,857036
+Indian Health Svc,3/23/2021,860107
+Indian Health Svc,3/24/2021,876022
+Indian Health Svc,3/25/2021,886247
+Indian Health Svc,3/26/2021,903716
+Indian Health Svc,3/27/2021,919115
+Indian Health Svc,3/28/2021,940544
+Indiana,1/12/2021,191844
+Indiana,1/13/2021,211334
+Indiana,1/14/2021,233488
+Indiana,1/15/2021,260310
+Indiana,1/19/2021,334686
+Indiana,1/20/2021,356385
+Indiana,1/21/2021,387137
+Indiana,1/22/2021,414127
+Indiana,1/23/2021,446029
+Indiana,1/24/2021,446029
+Indiana,1/25/2021,491856
+Indiana,1/26/2021,498824
+Indiana,1/27/2021,524180
+Indiana,1/28/2021,552144
+Indiana,1/29/2021,581322
+Indiana,1/30/2021,607185
+Indiana,1/31/2021,607185
+Indiana,2/1/2021,607185
+Indiana,2/2/2021,612289
+Indiana,2/3/2021,637745
+Indiana,2/4/2021,671191
+Indiana,2/5/2021,710888
+Indiana,2/6/2021,749771
+Indiana,2/7/2021,749771
+Indiana,2/8/2021,749771
+Indiana,2/9/2021,761070
+Indiana,2/10/2021,795702
+Indiana,2/11/2021,832031
+Indiana,2/12/2021,873568
+Indiana,2/13/2021,1018783
+Indiana,2/14/2021,1058874
+Indiana,2/16/2021,1091762
+Indiana,2/17/2021,1113413
+Indiana,2/18/2021,1125976
+Indiana,2/19/2021,1194094
+Indiana,2/20/2021,1234416
+Indiana,2/21/2021,1269839
+Indiana,2/22/2021,1292340
+Indiana,2/23/2021,1298877
+Indiana,2/24/2021,1361053
+Indiana,2/25/2021,1459296
+Indiana,2/26/2021,1505040
+Indiana,2/27/2021,1551945
+Indiana,2/28/2021,1590344
+Indiana,3/1/2021,1615149
+Indiana,3/2/2021,1624577
+Indiana,3/3/2021,1657664
+Indiana,3/4/2021,1697536
+Indiana,3/5/2021,1748623
+Indiana,3/6/2021,1800802
+Indiana,3/7/2021,1844669
+Indiana,3/8/2021,1879649
+Indiana,3/9/2021,1892845
+Indiana,3/10/2021,1934412
+Indiana,3/11/2021,1979075
+Indiana,3/12/2021,2030306
+Indiana,3/13/2021,2127154
+Indiana,3/14/2021,2127229
+Indiana,3/15/2021,2160312
+Indiana,3/16/2021,2170644
+Indiana,3/17/2021,2206988
+Indiana,3/18/2021,2252443
+Indiana,3/19/2021,2304432
+Indiana,3/20/2021,2360942
+Indiana,3/21/2021,2406866
+Indiana,3/22/2021,2437519
+Indiana,3/23/2021,2447336
+Indiana,3/24/2021,2488889
+Indiana,3/25/2021,2540707
+Indiana,3/26/2021,2598661
+Indiana,3/27/2021,2655132
+Indiana,3/28/2021,2700392
+Iowa,1/12/2021,98691
+Iowa,1/13/2021,112093
+Iowa,1/14/2021,112093
+Iowa,1/15/2021,120983
+Iowa,1/19/2021,144955
+Iowa,1/20/2021,149850
+Iowa,1/21/2021,158743
+Iowa,1/22/2021,170607
+Iowa,1/23/2021,180110
+Iowa,1/24/2021,191183
+Iowa,1/25/2021,196203
+Iowa,1/26/2021,197982
+Iowa,1/27/2021,204196
+Iowa,1/28/2021,212497
+Iowa,1/29/2021,224347
+Iowa,1/30/2021,237874
+Iowa,1/31/2021,252202
+Iowa,2/1/2021,257468
+Iowa,2/2/2021,259522
+Iowa,2/3/2021,266777
+Iowa,2/4/2021,279252
+Iowa,2/5/2021,293377
+Iowa,2/6/2021,308527
+Iowa,2/7/2021,328412
+Iowa,2/8/2021,345350
+Iowa,2/9/2021,351803
+Iowa,2/10/2021,368759
+Iowa,2/11/2021,387370
+Iowa,2/12/2021,408578
+Iowa,2/13/2021,432473
+Iowa,2/14/2021,456512
+Iowa,2/16/2021,485710
+Iowa,2/17/2021,495487
+Iowa,2/18/2021,507650
+Iowa,2/19/2021,552706
+Iowa,2/20/2021,577374
+Iowa,2/21/2021,599489
+Iowa,2/22/2021,611188
+Iowa,2/23/2021,614928
+Iowa,2/24/2021,621717
+Iowa,2/25/2021,631160
+Iowa,2/26/2021,654074
+Iowa,2/27/2021,684596
+Iowa,2/28/2021,713054
+Iowa,3/1/2021,734845
+Iowa,3/2/2021,740713
+Iowa,3/3/2021,753860
+Iowa,3/4/2021,773314
+Iowa,3/5/2021,801113
+Iowa,3/6/2021,861247
+Iowa,3/7/2021,906470
+Iowa,3/8/2021,940050
+Iowa,3/9/2021,952377
+Iowa,3/10/2021,969877
+Iowa,3/11/2021,999390
+Iowa,3/12/2021,1034296
+Iowa,3/13/2021,1114523
+Iowa,3/14/2021,1114556
+Iowa,3/15/2021,1145079
+Iowa,3/16/2021,1155003
+Iowa,3/17/2021,1155384
+Iowa,3/18/2021,1182560
+Iowa,3/19/2021,1225964
+Iowa,3/20/2021,1265775
+Iowa,3/21/2021,1302395
+Iowa,3/22/2021,1324891
+Iowa,3/23/2021,1333747
+Iowa,3/24/2021,1346156
+Iowa,3/25/2021,1369302
+Iowa,3/26/2021,1402543
+Iowa,3/27/2021,1445223
+Iowa,3/28/2021,1488820
+Kansas,1/12/2021,78268
+Kansas,1/13/2021,85650
+Kansas,1/14/2021,91565
+Kansas,1/15/2021,97779
+Kansas,1/19/2021,118434
+Kansas,1/20/2021,122705
+Kansas,1/21/2021,130434
+Kansas,1/22/2021,137094
+Kansas,1/23/2021,144909
+Kansas,1/24/2021,151249
+Kansas,1/25/2021,154719
+Kansas,1/26/2021,158743
+Kansas,1/27/2021,168392
+Kansas,1/28/2021,190301
+Kansas,1/29/2021,190540
+Kansas,1/30/2021,206520
+Kansas,1/31/2021,221469
+Kansas,2/1/2021,226895
+Kansas,2/2/2021,231201
+Kansas,2/3/2021,241156
+Kansas,2/4/2021,251425
+Kansas,2/5/2021,263624
+Kansas,2/6/2021,280252
+Kansas,2/7/2021,296284
+Kansas,2/8/2021,303094
+Kansas,2/9/2021,305574
+Kansas,2/10/2021,319662
+Kansas,2/11/2021,332923
+Kansas,2/12/2021,350741
+Kansas,2/13/2021,367891
+Kansas,2/14/2021,389983
+Kansas,2/16/2021,397247
+Kansas,2/17/2021,405166
+Kansas,2/18/2021,417825
+Kansas,2/19/2021,466718
+Kansas,2/20/2021,488738
+Kansas,2/21/2021,509332
+Kansas,2/22/2021,514728
+Kansas,2/23/2021,517379
+Kansas,2/24/2021,530904
+Kansas,2/25/2021,542433
+Kansas,2/26/2021,560776
+Kansas,2/27/2021,583498
+Kansas,2/28/2021,609765
+Kansas,3/1/2021,620939
+Kansas,3/2/2021,629548
+Kansas,3/3/2021,644921
+Kansas,3/4/2021,661143
+Kansas,3/5/2021,683046
+Kansas,3/6/2021,707897
+Kansas,3/7/2021,734335
+Kansas,3/8/2021,742945
+Kansas,3/9/2021,751652
+Kansas,3/10/2021,769636
+Kansas,3/11/2021,796242
+Kansas,3/12/2021,847260
+Kansas,3/13/2021,850639
+Kansas,3/14/2021,900500
+Kansas,3/15/2021,909577
+Kansas,3/16/2021,917107
+Kansas,3/17/2021,931281
+Kansas,3/18/2021,959395
+Kansas,3/19/2021,997844
+Kansas,3/20/2021,1035916
+Kansas,3/21/2021,1072867
+Kansas,3/22/2021,1081274
+Kansas,3/23/2021,1088988
+Kansas,3/24/2021,1115858
+Kansas,3/25/2021,1140488
+Kansas,3/26/2021,1170671
+Kansas,3/27/2021,1217475
+Kansas,3/28/2021,1249912
+Kentucky,1/12/2021,132114
+Kentucky,1/13/2021,142436
+Kentucky,1/14/2021,155613
+Kentucky,1/15/2021,174748
+Kentucky,1/19/2021,216039
+Kentucky,1/20/2021,223946
+Kentucky,1/21/2021,235143
+Kentucky,1/22/2021,254144
+Kentucky,1/23/2021,270960
+Kentucky,1/24/2021,299493
+Kentucky,1/25/2021,307462
+Kentucky,1/26/2021,312192
+Kentucky,1/27/2021,323268
+Kentucky,1/28/2021,342200
+Kentucky,1/29/2021,366643
+Kentucky,1/30/2021,386001
+Kentucky,1/31/2021,404705
+Kentucky,2/1/2021,415545
+Kentucky,2/2/2021,419562
+Kentucky,2/3/2021,435400
+Kentucky,2/4/2021,455783
+Kentucky,2/5/2021,483777
+Kentucky,2/6/2021,517168
+Kentucky,2/7/2021,548342
+Kentucky,2/8/2021,564682
+Kentucky,2/9/2021,568658
+Kentucky,2/10/2021,584947
+Kentucky,2/11/2021,608198
+Kentucky,2/12/2021,636518
+Kentucky,2/13/2021,649810
+Kentucky,2/14/2021,678768
+Kentucky,2/16/2021,711588
+Kentucky,2/17/2021,719857
+Kentucky,2/18/2021,726168
+Kentucky,2/19/2021,779109
+Kentucky,2/20/2021,796952
+Kentucky,2/21/2021,824007
+Kentucky,2/22/2021,839508
+Kentucky,2/23/2021,851440
+Kentucky,2/24/2021,874840
+Kentucky,2/25/2021,907836
+Kentucky,2/26/2021,945168
+Kentucky,2/27/2021,980727
+Kentucky,2/28/2021,1020045
+Kentucky,3/1/2021,1046835
+Kentucky,3/2/2021,1061236
+Kentucky,3/3/2021,1082228
+Kentucky,3/4/2021,1117369
+Kentucky,3/5/2021,1162694
+Kentucky,3/6/2021,1209546
+Kentucky,3/7/2021,1254160
+Kentucky,3/8/2021,1283860
+Kentucky,3/9/2021,1293847
+Kentucky,3/10/2021,1318808
+Kentucky,3/11/2021,1357068
+Kentucky,3/12/2021,1401175
+Kentucky,3/13/2021,1492234
+Kentucky,3/14/2021,1496894
+Kentucky,3/15/2021,1532494
+Kentucky,3/16/2021,1547563
+Kentucky,3/17/2021,1582305
+Kentucky,3/18/2021,1619517
+Kentucky,3/19/2021,1668125
+Kentucky,3/20/2021,1713059
+Kentucky,3/21/2021,1762745
+Kentucky,3/22/2021,1797605
+Kentucky,3/23/2021,1813786
+Kentucky,3/24/2021,1838590
+Kentucky,3/25/2021,1876610
+Kentucky,3/26/2021,1924602
+Kentucky,3/27/2021,1976294
+Kentucky,3/28/2021,2019234
+Long Term Care,1/12/2021,951774
+Long Term Care,1/13/2021,1084177
+Long Term Care,1/14/2021,1225493
+Long Term Care,1/15/2021,1384963
+Long Term Care,1/19/2021,1745441
+Long Term Care,1/20/2021,1908256
+Long Term Care,1/21/2021,2089181
+Long Term Care,1/22/2021,2289284
+Long Term Care,1/23/2021,2437670
+Long Term Care,1/24/2021,2567018
+Long Term Care,1/25/2021,2714487
+Long Term Care,1/26/2021,2725830
+Long Term Care,1/27/2021,2904840
+Long Term Care,1/28/2021,3102134
+Long Term Care,1/29/2021,3314266
+Long Term Care,1/30/2021,3505431
+Long Term Care,1/31/2021,3683718
+Long Term Care,2/1/2021,3748779
+Long Term Care,2/2/2021,3851460
+Long Term Care,2/3/2021,4022407
+Long Term Care,2/4/2021,4210027
+Long Term Care,2/5/2021,4419633
+Long Term Care,2/6/2021,4628962
+Long Term Care,2/7/2021,4839144
+Long Term Care,2/8/2021,4946483
+Long Term Care,2/9/2021,5015224
+Long Term Care,2/10/2021,5176499
+Long Term Care,2/11/2021,5348775
+Long Term Care,2/12/2021,5507785
+Long Term Care,2/13/2021,5667091
+Long Term Care,2/14/2021,5822871
+Long Term Care,2/16/2021,5968542
+Long Term Care,2/17/2021,6070341
+Long Term Care,2/18/2021,6181996
+Long Term Care,2/19/2021,6289188
+Long Term Care,2/20/2021,6399010
+Long Term Care,2/21/2021,6519848
+Long Term Care,2/22/2021,6579236
+Long Term Care,2/23/2021,6627820
+Long Term Care,2/24/2021,6724310
+Long Term Care,2/25/2021,6817460
+Long Term Care,2/26/2021,6933071
+Long Term Care,2/27/2021,7043540
+Long Term Care,2/28/2021,7112537
+Long Term Care,3/1/2021,7154531
+Long Term Care,3/2/2021,7178616
+Long Term Care,3/3/2021,7218655
+Long Term Care,3/4/2021,7262104
+Long Term Care,3/5/2021,7306425
+Long Term Care,3/6/2021,7349495
+Long Term Care,3/7/2021,7389102
+Long Term Care,3/8/2021,7405816
+Long Term Care,3/9/2021,7419240
+Long Term Care,3/10/2021,7445798
+Long Term Care,3/11/2021,7473597
+Long Term Care,3/12/2021,7499822
+Long Term Care,3/13/2021,7538985
+Long Term Care,3/14/2021,7547477
+Long Term Care,3/15/2021,7559194
+Long Term Care,3/16/2021,7569120
+Long Term Care,3/17/2021,7585936
+Long Term Care,3/18/2021,7614153
+Long Term Care,3/19/2021,7630706
+Long Term Care,3/20/2021,7648211
+Long Term Care,3/21/2021,7662913
+Long Term Care,3/22/2021,7671197
+Long Term Care,3/23/2021,7675790
+Long Term Care,3/24/2021,7683903
+Long Term Care,3/25/2021,7690646
+Long Term Care,3/26/2021,7699428
+Long Term Care,3/27/2021,7707857
+Long Term Care,3/28/2021,7715923
+Louisiana,1/12/2021,142771
+Louisiana,1/13/2021,156186
+Louisiana,1/14/2021,175811
+Louisiana,1/15/2021,197967
+Louisiana,1/19/2021,255591
+Louisiana,1/20/2021,264400
+Louisiana,1/21/2021,279398
+Louisiana,1/22/2021,297655
+Louisiana,1/23/2021,315023
+Louisiana,1/24/2021,334086
+Louisiana,1/25/2021,341447
+Louisiana,1/26/2021,345675
+Louisiana,1/27/2021,358746
+Louisiana,1/28/2021,375895
+Louisiana,1/29/2021,398312
+Louisiana,1/30/2021,420908
+Louisiana,1/31/2021,443715
+Louisiana,2/1/2021,463179
+Louisiana,2/2/2021,476014
+Louisiana,2/3/2021,488960
+Louisiana,2/4/2021,509982
+Louisiana,2/5/2021,536404
+Louisiana,2/6/2021,570731
+Louisiana,2/7/2021,599941
+Louisiana,2/8/2021,614041
+Louisiana,2/9/2021,619729
+Louisiana,2/10/2021,639019
+Louisiana,2/11/2021,639019
+Louisiana,2/12/2021,701110
+Louisiana,2/13/2021,735622
+Louisiana,2/14/2021,769155
+Louisiana,2/16/2021,784976
+Louisiana,2/17/2021,791574
+Louisiana,2/18/2021,795511
+Louisiana,2/19/2021,859565
+Louisiana,2/20/2021,877683
+Louisiana,2/21/2021,894519
+Louisiana,2/22/2021,903226
+Louisiana,2/23/2021,907334
+Louisiana,2/24/2021,920794
+Louisiana,2/25/2021,943419
+Louisiana,2/26/2021,978234
+Louisiana,2/27/2021,1019381
+Louisiana,2/28/2021,1056975
+Louisiana,3/1/2021,1076576
+Louisiana,3/2/2021,1084499
+Louisiana,3/3/2021,1107626
+Louisiana,3/4/2021,1139071
+Louisiana,3/5/2021,1179138
+Louisiana,3/6/2021,1179915
+Louisiana,3/7/2021,1180945
+Louisiana,3/8/2021,1277889
+Louisiana,3/9/2021,1286353
+Louisiana,3/10/2021,1309279
+Louisiana,3/11/2021,1340630
+Louisiana,3/12/2021,1379998
+Louisiana,3/13/2021,1464259
+Louisiana,3/14/2021,1464377
+Louisiana,3/15/2021,1484459
+Louisiana,3/16/2021,1494482
+Louisiana,3/17/2021,1519050
+Louisiana,3/18/2021,1519659
+Louisiana,3/19/2021,1587368
+Louisiana,3/20/2021,1629437
+Louisiana,3/21/2021,1664443
+Louisiana,3/22/2021,1688633
+Louisiana,3/23/2021,1695779
+Louisiana,3/24/2021,1725080
+Louisiana,3/25/2021,1756494
+Louisiana,3/26/2021,1793002
+Louisiana,3/27/2021,1838055
+Louisiana,3/28/2021,1882190
+Maine,1/12/2021,54945
+Maine,1/13/2021,57248
+Maine,1/14/2021,61129
+Maine,1/15/2021,61129
+Maine,1/19/2021,73978
+Maine,1/20/2021,76167
+Maine,1/21/2021,80502
+Maine,1/22/2021,86395
+Maine,1/23/2021,93003
+Maine,1/24/2021,99815
+Maine,1/25/2021,104069
+Maine,1/26/2021,104924
+Maine,1/27/2021,109183
+Maine,1/28/2021,115191
+Maine,1/29/2021,123207
+Maine,1/30/2021,132067
+Maine,1/31/2021,140353
+Maine,2/1/2021,145786
+Maine,2/2/2021,145786
+Maine,2/3/2021,145786
+Maine,2/4/2021,153439
+Maine,2/5/2021,159236
+Maine,2/6/2021,168626
+Maine,2/7/2021,178449
+Maine,2/8/2021,178449
+Maine,2/9/2021,187512
+Maine,2/10/2021,193246
+Maine,2/11/2021,193246
+Maine,2/12/2021,193246
+Maine,2/13/2021,193246
+Maine,2/14/2021,193246
+Maine,2/16/2021,238137
+Maine,2/17/2021,242445
+Maine,2/18/2021,242445
+Maine,2/19/2021,268162
+Maine,2/20/2021,268322
+Maine,2/21/2021,268693
+Maine,2/22/2021,297116
+Maine,2/23/2021,299427
+Maine,2/24/2021,305362
+Maine,2/25/2021,305397
+Maine,2/26/2021,305477
+Maine,2/27/2021,332358
+Maine,2/28/2021,332999
+Maine,3/1/2021,334009
+Maine,3/2/2021,334325
+Maine,3/3/2021,334449
+Maine,3/4/2021,334528
+Maine,3/5/2021,382117
+Maine,3/6/2021,398509
+Maine,3/7/2021,399534
+Maine,3/8/2021,427445
+Maine,3/9/2021,432219
+Maine,3/10/2021,441443
+Maine,3/11/2021,442593
+Maine,3/12/2021,476530
+Maine,3/13/2021,477511
+Maine,3/14/2021,510397
+Maine,3/15/2021,523269
+Maine,3/16/2021,528109
+Maine,3/17/2021,528359
+Maine,3/18/2021,528977
+Maine,3/19/2021,557469
+Maine,3/20/2021,557814
+Maine,3/21/2021,558351
+Maine,3/22/2021,595845
+Maine,3/23/2021,599693
+Maine,3/24/2021,599839
+Maine,3/25/2021,620556
+Maine,3/26/2021,639773
+Maine,3/27/2021,656607
+Maine,3/28/2021,673445
+Marshall Islands,1/12/2021,639
+Marshall Islands,1/13/2021,649
+Marshall Islands,1/14/2021,649
+Marshall Islands,1/15/2021,658
+Marshall Islands,1/19/2021,1282
+Marshall Islands,1/20/2021,1514
+Marshall Islands,1/21/2021,1991
+Marshall Islands,1/22/2021,2438
+Marshall Islands,1/23/2021,2873
+Marshall Islands,1/24/2021,3098
+Marshall Islands,1/25/2021,3098
+Marshall Islands,1/26/2021,3284
+Marshall Islands,1/27/2021,3538
+Marshall Islands,1/28/2021,3755
+Marshall Islands,1/29/2021,3928
+Marshall Islands,1/30/2021,3992
+Marshall Islands,1/31/2021,4127
+Marshall Islands,2/1/2021,4127
+Marshall Islands,2/2/2021,4258
+Marshall Islands,2/3/2021,4258
+Marshall Islands,2/4/2021,4424
+Marshall Islands,2/5/2021,4553
+Marshall Islands,2/6/2021,4740
+Marshall Islands,2/7/2021,4907
+Marshall Islands,2/8/2021,4907
+Marshall Islands,2/9/2021,5145
+Marshall Islands,2/10/2021,5260
+Marshall Islands,2/11/2021,5433
+Marshall Islands,2/12/2021,5609
+Marshall Islands,2/13/2021,5730
+Marshall Islands,2/14/2021,5938
+Marshall Islands,2/16/2021,6455
+Marshall Islands,2/17/2021,6458
+Marshall Islands,2/18/2021,6760
+Marshall Islands,2/19/2021,7417
+Marshall Islands,2/20/2021,7733
+Marshall Islands,2/21/2021,8716
+Marshall Islands,2/22/2021,8926
+Marshall Islands,2/23/2021,9462
+Marshall Islands,2/24/2021,9995
+Marshall Islands,2/25/2021,10360
+Marshall Islands,2/26/2021,10745
+Marshall Islands,2/27/2021,10745
+Marshall Islands,2/28/2021,11197
+Marshall Islands,3/1/2021,11197
+Marshall Islands,3/2/2021,11351
+Marshall Islands,3/3/2021,11351
+Marshall Islands,3/4/2021,12111
+Marshall Islands,3/5/2021,12592
+Marshall Islands,3/6/2021,13292
+Marshall Islands,3/7/2021,13742
+Marshall Islands,3/8/2021,13742
+Marshall Islands,3/9/2021,14523
+Marshall Islands,3/10/2021,14987
+Marshall Islands,3/11/2021,15516
+Marshall Islands,3/12/2021,15896
+Marshall Islands,3/13/2021,16007
+Marshall Islands,3/14/2021,16007
+Marshall Islands,3/15/2021,16007
+Marshall Islands,3/16/2021,16100
+Marshall Islands,3/17/2021,17112
+Marshall Islands,3/18/2021,17112
+Marshall Islands,3/19/2021,17112
+Marshall Islands,3/20/2021,18039
+Marshall Islands,3/21/2021,18873
+Marshall Islands,3/22/2021,18873
+Marshall Islands,3/23/2021,18873
+Marshall Islands,3/24/2021,19083
+Marshall Islands,3/25/2021,19343
+Marshall Islands,3/26/2021,19871
+Marshall Islands,3/27/2021,19871
+Marshall Islands,3/28/2021,20014
+Maryland,1/12/2021,146231
+Maryland,1/13/2021,178056
+Maryland,1/14/2021,178056
+Maryland,1/15/2021,194705
+Maryland,1/19/2021,247597
+Maryland,1/20/2021,258146
+Maryland,1/21/2021,271905
+Maryland,1/22/2021,287512
+Maryland,1/23/2021,307411
+Maryland,1/24/2021,338544
+Maryland,1/25/2021,350835
+Maryland,1/26/2021,365519
+Maryland,1/27/2021,389253
+Maryland,1/28/2021,412206
+Maryland,1/29/2021,442565
+Maryland,1/30/2021,475780
+Maryland,1/31/2021,505454
+Maryland,2/1/2021,528301
+Maryland,2/2/2021,537037
+Maryland,2/3/2021,546409
+Maryland,2/4/2021,565821
+Maryland,2/5/2021,594647
+Maryland,2/6/2021,626838
+Maryland,2/7/2021,665025
+Maryland,2/8/2021,683305
+Maryland,2/9/2021,692965
+Maryland,2/10/2021,721159
+Maryland,2/11/2021,745478
+Maryland,2/12/2021,778790
+Maryland,2/13/2021,812231
+Maryland,2/14/2021,850994
+Maryland,2/16/2021,887943
+Maryland,2/17/2021,903172
+Maryland,2/18/2021,930567
+Maryland,2/19/2021,1011323
+Maryland,2/20/2021,1054467
+Maryland,2/21/2021,1087762
+Maryland,2/22/2021,1111529
+Maryland,2/23/2021,1132483
+Maryland,2/24/2021,1159983
+Maryland,2/25/2021,1199143
+Maryland,2/26/2021,1239644
+Maryland,2/27/2021,1280675
+Maryland,2/28/2021,1325977
+Maryland,3/1/2021,1364145
+Maryland,3/2/2021,1390370
+Maryland,3/3/2021,1454494
+Maryland,3/4/2021,1497538
+Maryland,3/5/2021,1548380
+Maryland,3/6/2021,1606378
+Maryland,3/7/2021,1645609
+Maryland,3/8/2021,1671778
+Maryland,3/9/2021,1715039
+Maryland,3/10/2021,1761081
+Maryland,3/11/2021,1812309
+Maryland,3/12/2021,1859444
+Maryland,3/13/2021,1922161
+Maryland,3/14/2021,1961982
+Maryland,3/15/2021,1991188
+Maryland,3/16/2021,2033434
+Maryland,3/17/2021,2082976
+Maryland,3/18/2021,2130973
+Maryland,3/19/2021,2190923
+Maryland,3/20/2021,2194556
+Maryland,3/21/2021,2287975
+Maryland,3/22/2021,2320073
+Maryland,3/23/2021,2357211
+Maryland,3/24/2021,2409705
+Maryland,3/25/2021,2464830
+Maryland,3/26/2021,2532593
+Maryland,3/27/2021,2594534
+Maryland,3/28/2021,2648201
+Massachusetts,1/12/2021,204082
+Massachusetts,1/13/2021,217443
+Massachusetts,1/14/2021,233476
+Massachusetts,1/15/2021,257175
+Massachusetts,1/19/2021,318877
+Massachusetts,1/20/2021,330490
+Massachusetts,1/21/2021,353117
+Massachusetts,1/22/2021,370627
+Massachusetts,1/23/2021,392967
+Massachusetts,1/24/2021,419806
+Massachusetts,1/25/2021,433615
+Massachusetts,1/26/2021,442703
+Massachusetts,1/27/2021,464275
+Massachusetts,1/28/2021,490332
+Massachusetts,1/29/2021,520504
+Massachusetts,1/30/2021,547082
+Massachusetts,1/31/2021,579181
+Massachusetts,2/1/2021,608947
+Massachusetts,2/2/2021,625477
+Massachusetts,2/3/2021,625477
+Massachusetts,2/4/2021,652929
+Massachusetts,2/5/2021,685074
+Massachusetts,2/6/2021,727120
+Massachusetts,2/7/2021,780268
+Massachusetts,2/8/2021,806376
+Massachusetts,2/9/2021,832242
+Massachusetts,2/10/2021,883945
+Massachusetts,2/11/2021,924612
+Massachusetts,2/12/2021,962711
+Massachusetts,2/13/2021,1009560
+Massachusetts,2/14/2021,1085584
+Massachusetts,2/16/2021,1146860
+Massachusetts,2/17/2021,1170398
+Massachusetts,2/18/2021,1214821
+Massachusetts,2/19/2021,1316402
+Massachusetts,2/20/2021,1375439
+Massachusetts,2/21/2021,1426512
+Massachusetts,2/22/2021,1468992
+Massachusetts,2/23/2021,1500077
+Massachusetts,2/24/2021,1533534
+Massachusetts,2/25/2021,1576657
+Massachusetts,2/26/2021,1625459
+Massachusetts,2/27/2021,1684341
+Massachusetts,2/28/2021,1735916
+Massachusetts,3/1/2021,1803528
+Massachusetts,3/2/2021,1837816
+Massachusetts,3/3/2021,1884139
+Massachusetts,3/4/2021,1941018
+Massachusetts,3/5/2021,2005708
+Massachusetts,3/6/2021,2082052
+Massachusetts,3/7/2021,2148356
+Massachusetts,3/8/2021,2199086
+Massachusetts,3/9/2021,2226167
+Massachusetts,3/10/2021,2313916
+Massachusetts,3/11/2021,2376322
+Massachusetts,3/12/2021,2443419
+Massachusetts,3/13/2021,2561749
+Massachusetts,3/14/2021,2561749
+Massachusetts,3/15/2021,2620671
+Massachusetts,3/16/2021,2633498
+Massachusetts,3/17/2021,2710203
+Massachusetts,3/18/2021,2773542
+Massachusetts,3/19/2021,2837941
+Massachusetts,3/20/2021,2909219
+Massachusetts,3/21/2021,2972826
+Massachusetts,3/22/2021,3032996
+Massachusetts,3/23/2021,3066115
+Massachusetts,3/24/2021,3131419
+Massachusetts,3/25/2021,3196050
+Massachusetts,3/26/2021,3270796
+Massachusetts,3/27/2021,3345239
+Massachusetts,3/28/2021,3424253
+Michigan,1/12/2021,227685
+Michigan,1/13/2021,291519
+Michigan,1/14/2021,327235
+Michigan,1/15/2021,364182
+Michigan,1/19/2021,483592
+Michigan,1/20/2021,508607
+Michigan,1/21/2021,548844
+Michigan,1/22/2021,595454
+Michigan,1/23/2021,652661
+Michigan,1/24/2021,695273
+Michigan,1/25/2021,727437
+Michigan,1/26/2021,742270
+Michigan,1/27/2021,772031
+Michigan,1/28/2021,814416
+Michigan,1/29/2021,866663
+Michigan,1/30/2021,922423
+Michigan,1/31/2021,977030
+Michigan,2/1/2021,1005544
+Michigan,2/2/2021,1015483
+Michigan,2/3/2021,1042268
+Michigan,2/4/2021,1078808
+Michigan,2/5/2021,1134175
+Michigan,2/6/2021,1193181
+Michigan,2/7/2021,1251940
+Michigan,2/8/2021,1282375
+Michigan,2/9/2021,1309883
+Michigan,2/10/2021,1358924
+Michigan,2/11/2021,1412047
+Michigan,2/12/2021,1465627
+Michigan,2/13/2021,1537856
+Michigan,2/14/2021,1604973
+Michigan,2/16/2021,1657007
+Michigan,2/17/2021,1680901
+Michigan,2/18/2021,1718790
+Michigan,2/19/2021,1833886
+Michigan,2/20/2021,1884038
+Michigan,2/21/2021,1933648
+Michigan,2/22/2021,1972201
+Michigan,2/23/2021,1985511
+Michigan,2/24/2021,2044496
+Michigan,2/25/2021,2103114
+Michigan,2/26/2021,2165950
+Michigan,2/27/2021,2245696
+Michigan,2/28/2021,2318415
+Michigan,3/1/2021,2357259
+Michigan,3/2/2021,2389534
+Michigan,3/3/2021,2423899
+Michigan,3/4/2021,2476796
+Michigan,3/5/2021,2555112
+Michigan,3/6/2021,2637353
+Michigan,3/7/2021,2716893
+Michigan,3/8/2021,2765577
+Michigan,3/9/2021,2787289
+Michigan,3/10/2021,2831319
+Michigan,3/11/2021,2899309
+Michigan,3/12/2021,2983009
+Michigan,3/13/2021,3076878
+Michigan,3/14/2021,3166094
+Michigan,3/15/2021,3170085
+Michigan,3/16/2021,3245598
+Michigan,3/17/2021,3310710
+Michigan,3/18/2021,3396328
+Michigan,3/19/2021,3484418
+Michigan,3/20/2021,3589255
+Michigan,3/21/2021,3681378
+Michigan,3/22/2021,3747788
+Michigan,3/23/2021,3776838
+Michigan,3/24/2021,3841144
+Michigan,3/25/2021,3914742
+Michigan,3/26/2021,4006900
+Michigan,3/27/2021,4114426
+Michigan,3/28/2021,4214787
+Minnesota,1/12/2021,162240
+Minnesota,1/13/2021,165355
+Minnesota,1/14/2021,179684
+Minnesota,1/15/2021,198253
+Minnesota,1/19/2021,251535
+Minnesota,1/20/2021,252548
+Minnesota,1/21/2021,259417
+Minnesota,1/22/2021,278234
+Minnesota,1/23/2021,305297
+Minnesota,1/24/2021,321180
+Minnesota,1/25/2021,346864
+Minnesota,1/26/2021,360442
+Minnesota,1/27/2021,375395
+Minnesota,1/28/2021,403640
+Minnesota,1/29/2021,440350
+Minnesota,1/30/2021,485850
+Minnesota,1/31/2021,518744
+Minnesota,2/1/2021,546330
+Minnesota,2/2/2021,552701
+Minnesota,2/3/2021,552701
+Minnesota,2/4/2021,634453
+Minnesota,2/5/2021,634453
+Minnesota,2/6/2021,703366
+Minnesota,2/7/2021,729088
+Minnesota,2/8/2021,745290
+Minnesota,2/9/2021,745290
+Minnesota,2/10/2021,745290
+Minnesota,2/11/2021,754262
+Minnesota,2/12/2021,787006
+Minnesota,2/13/2021,831483
+Minnesota,2/14/2021,870743
+Minnesota,2/16/2021,908875
+Minnesota,2/17/2021,925182
+Minnesota,2/18/2021,957275
+Minnesota,2/19/2021,1051784
+Minnesota,2/20/2021,1097316
+Minnesota,2/21/2021,1136840
+Minnesota,2/22/2021,1138309
+Minnesota,2/23/2021,1170259
+Minnesota,2/24/2021,1189101
+Minnesota,2/25/2021,1218799
+Minnesota,2/26/2021,1261762
+Minnesota,2/27/2021,1322288
+Minnesota,2/28/2021,1393985
+Minnesota,3/1/2021,1429631
+Minnesota,3/2/2021,1443875
+Minnesota,3/3/2021,1477533
+Minnesota,3/4/2021,1512877
+Minnesota,3/5/2021,1562547
+Minnesota,3/6/2021,1627997
+Minnesota,3/7/2021,1681447
+Minnesota,3/8/2021,1725656
+Minnesota,3/9/2021,1746992
+Minnesota,3/10/2021,1771967
+Minnesota,3/11/2021,1823592
+Minnesota,3/12/2021,1874674
+Minnesota,3/13/2021,2000813
+Minnesota,3/14/2021,2000939
+Minnesota,3/15/2021,2037382
+Minnesota,3/16/2021,2046151
+Minnesota,3/17/2021,2080648
+Minnesota,3/18/2021,2119439
+Minnesota,3/19/2021,2180483
+Minnesota,3/20/2021,2244149
+Minnesota,3/21/2021,2306429
+Minnesota,3/22/2021,2340900
+Minnesota,3/23/2021,2353672
+Minnesota,3/24/2021,2380640
+Minnesota,3/25/2021,2417606
+Minnesota,3/26/2021,2479001
+Minnesota,3/27/2021,2557970
+Minnesota,3/28/2021,2632176
+Mississippi,1/12/2021,54544
+Mississippi,1/13/2021,61289
+Mississippi,1/14/2021,71848
+Mississippi,1/15/2021,84328
+Mississippi,1/19/2021,113572
+Mississippi,1/20/2021,122586
+Mississippi,1/21/2021,136691
+Mississippi,1/22/2021,150524
+Mississippi,1/23/2021,150524
+Mississippi,1/24/2021,177636
+Mississippi,1/25/2021,180960
+Mississippi,1/26/2021,182013
+Mississippi,1/27/2021,190239
+Mississippi,1/28/2021,201247
+Mississippi,1/29/2021,212748
+Mississippi,1/30/2021,222487
+Mississippi,1/31/2021,236401
+Mississippi,2/1/2021,238859
+Mississippi,2/2/2021,240125
+Mississippi,2/3/2021,250905
+Mississippi,2/4/2021,250905
+Mississippi,2/5/2021,275884
+Mississippi,2/6/2021,300464
+Mississippi,2/7/2021,321032
+Mississippi,2/8/2021,327429
+Mississippi,2/9/2021,329079
+Mississippi,2/10/2021,345507
+Mississippi,2/11/2021,365400
+Mississippi,2/12/2021,386333
+Mississippi,2/13/2021,407723
+Mississippi,2/14/2021,427198
+Mississippi,2/16/2021,438364
+Mississippi,2/17/2021,438364
+Mississippi,2/18/2021,438364
+Mississippi,2/19/2021,474304
+Mississippi,2/20/2021,481424
+Mississippi,2/21/2021,491117
+Mississippi,2/22/2021,499055
+Mississippi,2/23/2021,505655
+Mississippi,2/24/2021,525462
+Mississippi,2/25/2021,525981
+Mississippi,2/26/2021,567276
+Mississippi,2/27/2021,593453
+Mississippi,2/28/2021,619251
+Mississippi,3/1/2021,637116
+Mississippi,3/2/2021,646440
+Mississippi,3/3/2021,665772
+Mississippi,3/4/2021,685610
+Mississippi,3/5/2021,710560
+Mississippi,3/6/2021,736826
+Mississippi,3/7/2021,764699
+Mississippi,3/8/2021,776272
+Mississippi,3/9/2021,780649
+Mississippi,3/10/2021,801306
+Mississippi,3/11/2021,823604
+Mississippi,3/12/2021,824528
+Mississippi,3/13/2021,896984
+Mississippi,3/14/2021,896984
+Mississippi,3/15/2021,904066
+Mississippi,3/16/2021,906140
+Mississippi,3/17/2021,921413
+Mississippi,3/18/2021,940902
+Mississippi,3/19/2021,948679
+Mississippi,3/20/2021,972123
+Mississippi,3/21/2021,996498
+Mississippi,3/22/2021,1002292
+Mississippi,3/23/2021,1004562
+Mississippi,3/24/2021,1025205
+Mississippi,3/25/2021,1049528
+Mississippi,3/26/2021,1050114
+Mississippi,3/27/2021,1092577
+Mississippi,3/28/2021,1094028
+Missouri,1/12/2021,161784
+Missouri,1/13/2021,161784
+Missouri,1/14/2021,175314
+Missouri,1/15/2021,190447
+Missouri,1/19/2021,236254
+Missouri,1/20/2021,244476
+Missouri,1/21/2021,265382
+Missouri,1/22/2021,285697
+Missouri,1/23/2021,291723
+Missouri,1/24/2021,317737
+Missouri,1/25/2021,335695
+Missouri,1/26/2021,340273
+Missouri,1/27/2021,358150
+Missouri,1/28/2021,382552
+Missouri,1/29/2021,408441
+Missouri,1/30/2021,408441
+Missouri,1/31/2021,444384
+Missouri,2/1/2021,462202
+Missouri,2/2/2021,466406
+Missouri,2/3/2021,482112
+Missouri,2/4/2021,505207
+Missouri,2/5/2021,536188
+Missouri,2/6/2021,583949
+Missouri,2/7/2021,625152
+Missouri,2/8/2021,643439
+Missouri,2/9/2021,646863
+Missouri,2/10/2021,669658
+Missouri,2/11/2021,694992
+Missouri,2/12/2021,717483
+Missouri,2/13/2021,806902
+Missouri,2/14/2021,848026
+Missouri,2/16/2021,878941
+Missouri,2/17/2021,892006
+Missouri,2/18/2021,915475
+Missouri,2/19/2021,1014248
+Missouri,2/20/2021,1042872
+Missouri,2/21/2021,1083721
+Missouri,2/22/2021,1103908
+Missouri,2/23/2021,1110913
+Missouri,2/24/2021,1137233
+Missouri,2/25/2021,1167787
+Missouri,2/26/2021,1213449
+Missouri,2/27/2021,1278087
+Missouri,2/28/2021,1279404
+Missouri,3/1/2021,1375027
+Missouri,3/2/2021,1384067
+Missouri,3/3/2021,1415806
+Missouri,3/4/2021,1458439
+Missouri,3/5/2021,1504236
+Missouri,3/6/2021,1552157
+Missouri,3/7/2021,1600118
+Missouri,3/8/2021,1633864
+Missouri,3/9/2021,1647096
+Missouri,3/10/2021,1685362
+Missouri,3/11/2021,1724580
+Missouri,3/12/2021,1759789
+Missouri,3/13/2021,1867231
+Missouri,3/14/2021,1867231
+Missouri,3/15/2021,1897083
+Missouri,3/16/2021,1907859
+Missouri,3/17/2021,1939762
+Missouri,3/18/2021,1989274
+Missouri,3/19/2021,2033873
+Missouri,3/20/2021,2087816
+Missouri,3/21/2021,2143727
+Missouri,3/22/2021,2174546
+Missouri,3/23/2021,2192811
+Missouri,3/24/2021,2229686
+Missouri,3/25/2021,2276318
+Missouri,3/26/2021,2317440
+Missouri,3/27/2021,2371541
+Missouri,3/28/2021,2430704
+Montana,1/12/2021,42083
+Montana,1/13/2021,44063
+Montana,1/14/2021,46620
+Montana,1/15/2021,49364
+Montana,1/19/2021,55893
+Montana,1/20/2021,57220
+Montana,1/21/2021,60389
+Montana,1/22/2021,66348
+Montana,1/23/2021,72544
+Montana,1/24/2021,76590
+Montana,1/25/2021,77356
+Montana,1/26/2021,77748
+Montana,1/27/2021,81169
+Montana,1/28/2021,86213
+Montana,1/29/2021,92589
+Montana,1/30/2021,99272
+Montana,1/31/2021,104525
+Montana,2/1/2021,106145
+Montana,2/2/2021,107324
+Montana,2/3/2021,110374
+Montana,2/4/2021,116148
+Montana,2/5/2021,122536
+Montana,2/6/2021,130883
+Montana,2/7/2021,137765
+Montana,2/8/2021,139273
+Montana,2/9/2021,140124
+Montana,2/10/2021,144343
+Montana,2/11/2021,149339
+Montana,2/12/2021,157695
+Montana,2/13/2021,167360
+Montana,2/14/2021,176810
+Montana,2/16/2021,181665
+Montana,2/17/2021,184579
+Montana,2/18/2021,190070
+Montana,2/19/2021,221225
+Montana,2/20/2021,228890
+Montana,2/21/2021,237099
+Montana,2/22/2021,240814
+Montana,2/23/2021,243015
+Montana,2/24/2021,246626
+Montana,2/25/2021,252295
+Montana,2/26/2021,260990
+Montana,2/27/2021,271075
+Montana,2/28/2021,281422
+Montana,3/1/2021,284679
+Montana,3/2/2021,286163
+Montana,3/3/2021,291572
+Montana,3/4/2021,301007
+Montana,3/5/2021,312296
+Montana,3/6/2021,324102
+Montana,3/7/2021,337005
+Montana,3/8/2021,341554
+Montana,3/9/2021,343597
+Montana,3/10/2021,349631
+Montana,3/11/2021,359446
+Montana,3/12/2021,370463
+Montana,3/13/2021,383241
+Montana,3/14/2021,395770
+Montana,3/15/2021,398858
+Montana,3/16/2021,401716
+Montana,3/17/2021,406867
+Montana,3/18/2021,414258
+Montana,3/19/2021,422946
+Montana,3/20/2021,433315
+Montana,3/21/2021,443030
+Montana,3/22/2021,447675
+Montana,3/23/2021,447693
+Montana,3/24/2021,455003
+Montana,3/25/2021,463857
+Montana,3/26/2021,475058
+Montana,3/27/2021,487221
+Montana,3/28/2021,499029
+Nebraska,1/12/2021,74439
+Nebraska,1/13/2021,79699
+Nebraska,1/14/2021,84920
+Nebraska,1/15/2021,91195
+Nebraska,1/19/2021,103689
+Nebraska,1/20/2021,106283
+Nebraska,1/21/2021,111841
+Nebraska,1/22/2021,118450
+Nebraska,1/23/2021,124069
+Nebraska,1/24/2021,132846
+Nebraska,1/25/2021,134033
+Nebraska,1/26/2021,135131
+Nebraska,1/27/2021,139573
+Nebraska,1/28/2021,150019
+Nebraska,1/29/2021,158370
+Nebraska,1/30/2021,167276
+Nebraska,1/31/2021,177711
+Nebraska,2/1/2021,180917
+Nebraska,2/2/2021,182412
+Nebraska,2/3/2021,188285
+Nebraska,2/4/2021,195126
+Nebraska,2/5/2021,204136
+Nebraska,2/6/2021,218405
+Nebraska,2/7/2021,230874
+Nebraska,2/8/2021,234061
+Nebraska,2/9/2021,235298
+Nebraska,2/10/2021,241067
+Nebraska,2/11/2021,247879
+Nebraska,2/12/2021,259906
+Nebraska,2/13/2021,273950
+Nebraska,2/14/2021,285708
+Nebraska,2/16/2021,290626
+Nebraska,2/17/2021,294904
+Nebraska,2/18/2021,305057
+Nebraska,2/19/2021,347754
+Nebraska,2/20/2021,360582
+Nebraska,2/21/2021,372655
+Nebraska,2/22/2021,380648
+Nebraska,2/23/2021,392756
+Nebraska,2/24/2021,405896
+Nebraska,2/25/2021,422419
+Nebraska,2/26/2021,442310
+Nebraska,2/27/2021,443974
+Nebraska,2/28/2021,474439
+Nebraska,3/1/2021,476315
+Nebraska,3/2/2021,484888
+Nebraska,3/3/2021,497106
+Nebraska,3/4/2021,513497
+Nebraska,3/5/2021,535213
+Nebraska,3/6/2021,536126
+Nebraska,3/7/2021,556061
+Nebraska,3/8/2021,573413
+Nebraska,3/9/2021,594293
+Nebraska,3/10/2021,607373
+Nebraska,3/11/2021,629765
+Nebraska,3/12/2021,653385
+Nebraska,3/13/2021,666329
+Nebraska,3/14/2021,666417
+Nebraska,3/15/2021,684831
+Nebraska,3/16/2021,697176
+Nebraska,3/17/2021,712099
+Nebraska,3/18/2021,731885
+Nebraska,3/19/2021,754880
+Nebraska,3/20/2021,755802
+Nebraska,3/21/2021,775509
+Nebraska,3/22/2021,797409
+Nebraska,3/23/2021,804643
+Nebraska,3/24/2021,818325
+Nebraska,3/25/2021,836012
+Nebraska,3/26/2021,857343
+Nebraska,3/27/2021,858106
+Nebraska,3/28/2021,881787
+Nevada,1/12/2021,61653
+Nevada,1/13/2021,61653
+Nevada,1/14/2021,76844
+Nevada,1/15/2021,83674
+Nevada,1/19/2021,102840
+Nevada,1/20/2021,107133
+Nevada,1/21/2021,115991
+Nevada,1/22/2021,126458
+Nevada,1/23/2021,137031
+Nevada,1/24/2021,152203
+Nevada,1/25/2021,159869
+Nevada,1/26/2021,164362
+Nevada,1/27/2021,174367
+Nevada,1/28/2021,194942
+Nevada,1/29/2021,210185
+Nevada,1/30/2021,224192
+Nevada,1/31/2021,241078
+Nevada,2/1/2021,248754
+Nevada,2/2/2021,253174
+Nevada,2/3/2021,279471
+Nevada,2/4/2021,291601
+Nevada,2/5/2021,304323
+Nevada,2/6/2021,322252
+Nevada,2/7/2021,334073
+Nevada,2/8/2021,346685
+Nevada,2/9/2021,351531
+Nevada,2/10/2021,366333
+Nevada,2/11/2021,379077
+Nevada,2/12/2021,394172
+Nevada,2/13/2021,411057
+Nevada,2/14/2021,428423
+Nevada,2/16/2021,446800
+Nevada,2/17/2021,453012
+Nevada,2/18/2021,466981
+Nevada,2/19/2021,522332
+Nevada,2/20/2021,555742
+Nevada,2/21/2021,569810
+Nevada,2/22/2021,586518
+Nevada,2/23/2021,598423
+Nevada,2/24/2021,606821
+Nevada,2/25/2021,622189
+Nevada,2/26/2021,642562
+Nevada,2/27/2021,665577
+Nevada,2/28/2021,685692
+Nevada,3/1/2021,715121
+Nevada,3/2/2021,723182
+Nevada,3/3/2021,733953
+Nevada,3/4/2021,750160
+Nevada,3/5/2021,773285
+Nevada,3/6/2021,800030
+Nevada,3/7/2021,829262
+Nevada,3/8/2021,855890
+Nevada,3/9/2021,864967
+Nevada,3/10/2021,878645
+Nevada,3/11/2021,904504
+Nevada,3/12/2021,930754
+Nevada,3/13/2021,958706
+Nevada,3/14/2021,989342
+Nevada,3/15/2021,1013805
+Nevada,3/16/2021,1020137
+Nevada,3/17/2021,1034347
+Nevada,3/18/2021,1062287
+Nevada,3/19/2021,1086559
+Nevada,3/20/2021,1116221
+Nevada,3/21/2021,1145354
+Nevada,3/22/2021,1164939
+Nevada,3/23/2021,1170434
+Nevada,3/24/2021,1185896
+Nevada,3/25/2021,1214518
+Nevada,3/26/2021,1243965
+Nevada,3/27/2021,1274357
+Nevada,3/28/2021,1303006
+New Hampshire,1/12/2021,50613
+New Hampshire,1/13/2021,55218
+New Hampshire,1/14/2021,58711
+New Hampshire,1/15/2021,62517
+New Hampshire,1/19/2021,71556
+New Hampshire,1/20/2021,75418
+New Hampshire,1/21/2021,80639
+New Hampshire,1/22/2021,85595
+New Hampshire,1/23/2021,89816
+New Hampshire,1/24/2021,93338
+New Hampshire,1/25/2021,94623
+New Hampshire,1/26/2021,97002
+New Hampshire,1/27/2021,103080
+New Hampshire,1/28/2021,110451
+New Hampshire,1/29/2021,117408
+New Hampshire,1/30/2021,123740
+New Hampshire,1/31/2021,128313
+New Hampshire,2/1/2021,130515
+New Hampshire,2/2/2021,135799
+New Hampshire,2/3/2021,138271
+New Hampshire,2/4/2021,145086
+New Hampshire,2/5/2021,153145
+New Hampshire,2/6/2021,161178
+New Hampshire,2/7/2021,165887
+New Hampshire,2/8/2021,166603
+New Hampshire,2/9/2021,168727
+New Hampshire,2/10/2021,176192
+New Hampshire,2/11/2021,184103
+New Hampshire,2/12/2021,191114
+New Hampshire,2/13/2021,200675
+New Hampshire,2/14/2021,208541
+New Hampshire,2/16/2021,216649
+New Hampshire,2/17/2021,218316
+New Hampshire,2/18/2021,226863
+New Hampshire,2/19/2021,241386
+New Hampshire,2/20/2021,250296
+New Hampshire,2/21/2021,260809
+New Hampshire,2/22/2021,267893
+New Hampshire,2/23/2021,274267
+New Hampshire,2/24/2021,282235
+New Hampshire,2/25/2021,291248
+New Hampshire,2/26/2021,299874
+New Hampshire,2/27/2021,310769
+New Hampshire,2/28/2021,321602
+New Hampshire,3/1/2021,324806
+New Hampshire,3/2/2021,330538
+New Hampshire,3/3/2021,339484
+New Hampshire,3/4/2021,349825
+New Hampshire,3/5/2021,358497
+New Hampshire,3/6/2021,371111
+New Hampshire,3/7/2021,382103
+New Hampshire,3/8/2021,385485
+New Hampshire,3/9/2021,393931
+New Hampshire,3/10/2021,405366
+New Hampshire,3/11/2021,418658
+New Hampshire,3/12/2021,431296
+New Hampshire,3/13/2021,450103
+New Hampshire,3/14/2021,460696
+New Hampshire,3/15/2021,465226
+New Hampshire,3/16/2021,471480
+New Hampshire,3/17/2021,478758
+New Hampshire,3/18/2021,489626
+New Hampshire,3/19/2021,500911
+New Hampshire,3/20/2021,514422
+New Hampshire,3/21/2021,529948
+New Hampshire,3/22/2021,537577
+New Hampshire,3/23/2021,545500
+New Hampshire,3/24/2021,554889
+New Hampshire,3/25/2021,566168
+New Hampshire,3/26/2021,574612
+New Hampshire,3/27/2021,586018
+New Hampshire,3/28/2021,598445
+New Jersey,1/12/2021,221045
+New Jersey,1/13/2021,262982
+New Jersey,1/14/2021,263422
+New Jersey,1/15/2021,317070
+New Jersey,1/19/2021,400148
+New Jersey,1/20/2021,432220
+New Jersey,1/21/2021,432220
+New Jersey,1/22/2021,464363
+New Jersey,1/23/2021,500889
+New Jersey,1/24/2021,535625
+New Jersey,1/25/2021,563141
+New Jersey,1/26/2021,575733
+New Jersey,1/27/2021,611862
+New Jersey,1/28/2021,648215
+New Jersey,1/29/2021,727426
+New Jersey,1/30/2021,768944
+New Jersey,1/31/2021,795440
+New Jersey,2/1/2021,810293
+New Jersey,2/2/2021,836584
+New Jersey,2/3/2021,851721
+New Jersey,2/4/2021,851721
+New Jersey,2/5/2021,884736
+New Jersey,2/6/2021,1041289
+New Jersey,2/7/2021,1074805
+New Jersey,2/8/2021,1094886
+New Jersey,2/9/2021,1096789
+New Jersey,2/10/2021,1148733
+New Jersey,2/11/2021,1196677
+New Jersey,2/12/2021,1252742
+New Jersey,2/13/2021,1309703
+New Jersey,2/14/2021,1349327
+New Jersey,2/16/2021,1427336
+New Jersey,2/17/2021,1480413
+New Jersey,2/18/2021,1542174
+New Jersey,2/19/2021,1604448
+New Jersey,2/20/2021,1648599
+New Jersey,2/21/2021,1689031
+New Jersey,2/22/2021,1711610
+New Jersey,2/23/2021,1759059
+New Jersey,2/24/2021,1803596
+New Jersey,2/25/2021,1866378
+New Jersey,2/26/2021,1943116
+New Jersey,2/27/2021,2008524
+New Jersey,2/28/2021,2065666
+New Jersey,3/1/2021,2096498
+New Jersey,3/2/2021,2187330
+New Jersey,3/3/2021,2249861
+New Jersey,3/4/2021,2325257
+New Jersey,3/5/2021,2403077
+New Jersey,3/6/2021,2478696
+New Jersey,3/7/2021,2534361
+New Jersey,3/8/2021,2571874
+New Jersey,3/9/2021,2639438
+New Jersey,3/10/2021,2714949
+New Jersey,3/11/2021,2834934
+New Jersey,3/12/2021,2916801
+New Jersey,3/13/2021,3011319
+New Jersey,3/14/2021,3065373
+New Jersey,3/15/2021,3112960
+New Jersey,3/16/2021,3174729
+New Jersey,3/17/2021,3254946
+New Jersey,3/18/2021,3346883
+New Jersey,3/19/2021,3431096
+New Jersey,3/20/2021,3514899
+New Jersey,3/21/2021,3581686
+New Jersey,3/22/2021,3635504
+New Jersey,3/23/2021,3636384
+New Jersey,3/24/2021,3781744
+New Jersey,3/25/2021,3869393
+New Jersey,3/26/2021,3958836
+New Jersey,3/27/2021,4053945
+New Jersey,3/28/2021,4142916
+New Mexico,1/12/2021,78235
+New Mexico,1/13/2021,81855
+New Mexico,1/14/2021,89415
+New Mexico,1/15/2021,99305
+New Mexico,1/19/2021,138150
+New Mexico,1/20/2021,143302
+New Mexico,1/21/2021,152465
+New Mexico,1/22/2021,162045
+New Mexico,1/23/2021,184698
+New Mexico,1/24/2021,200141
+New Mexico,1/25/2021,204670
+New Mexico,1/26/2021,210136
+New Mexico,1/27/2021,217075
+New Mexico,1/28/2021,224692
+New Mexico,1/29/2021,238755
+New Mexico,1/30/2021,248321
+New Mexico,1/31/2021,264147
+New Mexico,2/1/2021,275224
+New Mexico,2/2/2021,277617
+New Mexico,2/3/2021,284830
+New Mexico,2/4/2021,294566
+New Mexico,2/5/2021,306945
+New Mexico,2/6/2021,322611
+New Mexico,2/7/2021,331793
+New Mexico,2/8/2021,342786
+New Mexico,2/9/2021,346064
+New Mexico,2/10/2021,354627
+New Mexico,2/11/2021,369864
+New Mexico,2/12/2021,388806
+New Mexico,2/13/2021,399911
+New Mexico,2/14/2021,419882
+New Mexico,2/16/2021,443359
+New Mexico,2/17/2021,447379
+New Mexico,2/18/2021,456034
+New Mexico,2/19/2021,562580
+New Mexico,2/20/2021,578916
+New Mexico,2/21/2021,595951
+New Mexico,2/22/2021,604732
+New Mexico,2/23/2021,612496
+New Mexico,2/24/2021,618666
+New Mexico,2/25/2021,634845
+New Mexico,2/26/2021,657118
+New Mexico,2/27/2021,678087
+New Mexico,2/28/2021,705538
+New Mexico,3/1/2021,711612
+New Mexico,3/2/2021,721489
+New Mexico,3/3/2021,735930
+New Mexico,3/4/2021,743904
+New Mexico,3/5/2021,765965
+New Mexico,3/6/2021,801111
+New Mexico,3/7/2021,814029
+New Mexico,3/8/2021,833881
+New Mexico,3/9/2021,839018
+New Mexico,3/10/2021,840633
+New Mexico,3/11/2021,867690
+New Mexico,3/12/2021,895586
+New Mexico,3/13/2021,913253
+New Mexico,3/14/2021,942171
+New Mexico,3/15/2021,952566
+New Mexico,3/16/2021,970496
+New Mexico,3/17/2021,983709
+New Mexico,3/18/2021,1004050
+New Mexico,3/19/2021,1031202
+New Mexico,3/20/2021,1060171
+New Mexico,3/21/2021,1085158
+New Mexico,3/22/2021,1098197
+New Mexico,3/23/2021,1101603
+New Mexico,3/24/2021,1111612
+New Mexico,3/25/2021,1135178
+New Mexico,3/26/2021,1162064
+New Mexico,3/27/2021,1191220
+New Mexico,3/28/2021,1224826
+New York State,1/12/2021,579532
+New York State,1/13/2021,632473
+New York State,1/14/2021,688576
+New York State,1/15/2021,757466
+New York State,1/19/2021,1000319
+New York State,1/20/2021,1046490
+New York State,1/21/2021,1116441
+New York State,1/22/2021,1203994
+New York State,1/23/2021,1282515
+New York State,1/24/2021,1365404
+New York State,1/25/2021,1418313
+New York State,1/26/2021,1453972
+New York State,1/27/2021,1518697
+New York State,1/28/2021,1630504
+New York State,1/29/2021,1703218
+New York State,1/30/2021,1791935
+New York State,1/31/2021,1875462
+New York State,2/1/2021,1927665
+New York State,2/2/2021,1966446
+New York State,2/3/2021,2003170
+New York State,2/4/2021,2060301
+New York State,2/5/2021,2132305
+New York State,2/6/2021,2225316
+New York State,2/7/2021,2336867
+New York State,2/8/2021,2418074
+New York State,2/9/2021,2441693
+New York State,2/10/2021,2535824
+New York State,2/11/2021,2620734
+New York State,2/12/2021,2712546
+New York State,2/13/2021,2821335
+New York State,2/14/2021,2925186
+New York State,2/16/2021,3110432
+New York State,2/17/2021,3178252
+New York State,2/18/2021,3253874
+New York State,2/19/2021,3447521
+New York State,2/20/2021,3535997
+New York State,2/21/2021,3621973
+New York State,2/22/2021,3711664
+New York State,2/23/2021,3772702
+New York State,2/24/2021,3821059
+New York State,2/25/2021,3879303
+New York State,2/26/2021,3955191
+New York State,2/27/2021,4060431
+New York State,2/28/2021,4225250
+New York State,3/1/2021,4355544
+New York State,3/2/2021,4495821
+New York State,3/3/2021,4607571
+New York State,3/4/2021,4730809
+New York State,3/5/2021,4864621
+New York State,3/6/2021,5042187
+New York State,3/7/2021,5237597
+New York State,3/8/2021,5416301
+New York State,3/9/2021,5525344
+New York State,3/10/2021,5691711
+New York State,3/11/2021,5840907
+New York State,3/12/2021,5999720
+New York State,3/13/2021,6295058
+New York State,3/14/2021,6295058
+New York State,3/15/2021,6443462
+New York State,3/16/2021,6571852
+New York State,3/17/2021,6700442
+New York State,3/18/2021,6853499
+New York State,3/19/2021,7004762
+New York State,3/20/2021,7185757
+New York State,3/21/2021,7371644
+New York State,3/22/2021,7522949
+New York State,3/23/2021,7695283
+New York State,3/24/2021,7836940
+New York State,3/25/2021,7986362
+New York State,3/26/2021,8194278
+New York State,3/27/2021,8435639
+New York State,3/28/2021,8654504
+North Carolina,1/12/2021,211610
+North Carolina,1/13/2021,266938
+North Carolina,1/14/2021,268212
+North Carolina,1/15/2021,302824
+North Carolina,1/19/2021,400779
+North Carolina,1/20/2021,427480
+North Carolina,1/21/2021,473282
+North Carolina,1/22/2021,524914
+North Carolina,1/23/2021,577007
+North Carolina,1/24/2021,636439
+North Carolina,1/25/2021,676037
+North Carolina,1/26/2021,699722
+North Carolina,1/27/2021,716748
+North Carolina,1/28/2021,849801
+North Carolina,1/29/2021,851223
+North Carolina,1/30/2021,898736
+North Carolina,1/31/2021,951657
+North Carolina,2/1/2021,975743
+North Carolina,2/2/2021,976153
+North Carolina,2/3/2021,1026683
+North Carolina,2/4/2021,1063474
+North Carolina,2/5/2021,1110074
+North Carolina,2/6/2021,1171240
+North Carolina,2/7/2021,1242541
+North Carolina,2/8/2021,1274361
+North Carolina,2/9/2021,1287493
+North Carolina,2/10/2021,1336079
+North Carolina,2/11/2021,1382652
+North Carolina,2/12/2021,1447413
+North Carolina,2/13/2021,1523425
+North Carolina,2/14/2021,1617435
+North Carolina,2/16/2021,1684845
+North Carolina,2/17/2021,1734825
+North Carolina,2/18/2021,1782267
+North Carolina,2/19/2021,1959215
+North Carolina,2/20/2021,2008811
+North Carolina,2/21/2021,2068505
+North Carolina,2/22/2021,2105120
+North Carolina,2/23/2021,2118218
+North Carolina,2/24/2021,2164489
+North Carolina,2/25/2021,2210412
+North Carolina,2/26/2021,2284698
+North Carolina,2/27/2021,2366027
+North Carolina,2/28/2021,2467755
+North Carolina,3/1/2021,2525579
+North Carolina,3/2/2021,2545103
+North Carolina,3/3/2021,2606912
+North Carolina,3/4/2021,2661523
+North Carolina,3/5/2021,2680413
+North Carolina,3/6/2021,2760801
+North Carolina,3/7/2021,2830672
+North Carolina,3/8/2021,2881950
+North Carolina,3/9/2021,2909142
+North Carolina,3/10/2021,2979031
+North Carolina,3/11/2021,3048105
+North Carolina,3/12/2021,3165928
+North Carolina,3/13/2021,3391675
+North Carolina,3/14/2021,3414474
+North Carolina,3/15/2021,3480495
+North Carolina,3/16/2021,3564207
+North Carolina,3/17/2021,3630467
+North Carolina,3/18/2021,3724856
+North Carolina,3/19/2021,3813176
+North Carolina,3/20/2021,3903284
+North Carolina,3/21/2021,4002867
+North Carolina,3/22/2021,4064069
+North Carolina,3/23/2021,4092184
+North Carolina,3/24/2021,4167233
+North Carolina,3/25/2021,4240056
+North Carolina,3/26/2021,4343898
+North Carolina,3/27/2021,4456503
+North Carolina,3/28/2021,4549839
+North Dakota,1/12/2021,39479
+North Dakota,1/13/2021,40728
+North Dakota,1/14/2021,42774
+North Dakota,1/15/2021,46410
+North Dakota,1/19/2021,56608
+North Dakota,1/20/2021,57657
+North Dakota,1/21/2021,59245
+North Dakota,1/22/2021,64105
+North Dakota,1/23/2021,68999
+North Dakota,1/24/2021,73175
+North Dakota,1/25/2021,75242
+North Dakota,1/26/2021,75457
+North Dakota,1/27/2021,77230
+North Dakota,1/28/2021,80051
+North Dakota,1/29/2021,86175
+North Dakota,1/30/2021,91585
+North Dakota,1/31/2021,97915
+North Dakota,2/1/2021,99481
+North Dakota,2/2/2021,99990
+North Dakota,2/3/2021,103572
+North Dakota,2/4/2021,106900
+North Dakota,2/5/2021,112827
+North Dakota,2/6/2021,120742
+North Dakota,2/7/2021,126822
+North Dakota,2/8/2021,129780
+North Dakota,2/9/2021,129780
+North Dakota,2/10/2021,130019
+North Dakota,2/11/2021,133616
+North Dakota,2/12/2021,139392
+North Dakota,2/13/2021,144179
+North Dakota,2/14/2021,148916
+North Dakota,2/16/2021,153427
+North Dakota,2/17/2021,154087
+North Dakota,2/18/2021,156751
+North Dakota,2/19/2021,182325
+North Dakota,2/20/2021,188496
+North Dakota,2/21/2021,194406
+North Dakota,2/22/2021,196365
+North Dakota,2/23/2021,196576
+North Dakota,2/24/2021,199813
+North Dakota,2/25/2021,203911
+North Dakota,2/26/2021,212625
+North Dakota,2/27/2021,225330
+North Dakota,2/28/2021,234209
+North Dakota,3/1/2021,238585
+North Dakota,3/2/2021,238848
+North Dakota,3/3/2021,241181
+North Dakota,3/4/2021,246289
+North Dakota,3/5/2021,255282
+North Dakota,3/6/2021,264133
+North Dakota,3/7/2021,272721
+North Dakota,3/8/2021,275989
+North Dakota,3/9/2021,277845
+North Dakota,3/10/2021,280757
+North Dakota,3/11/2021,286495
+North Dakota,3/12/2021,297605
+North Dakota,3/13/2021,308699
+North Dakota,3/14/2021,317029
+North Dakota,3/15/2021,321677
+North Dakota,3/16/2021,321693
+North Dakota,3/17/2021,325202
+North Dakota,3/18/2021,330516
+North Dakota,3/19/2021,340554
+North Dakota,3/20/2021,350706
+North Dakota,3/21/2021,357236
+North Dakota,3/22/2021,360501
+North Dakota,3/23/2021,360592
+North Dakota,3/24/2021,363148
+North Dakota,3/25/2021,369029
+North Dakota,3/26/2021,379564
+North Dakota,3/27/2021,390760
+North Dakota,3/28/2021,397822
+Northern Mariana Islands,1/12/2021,3722
+Northern Mariana Islands,1/13/2021,4141
+Northern Mariana Islands,1/14/2021,4598
+Northern Mariana Islands,1/15/2021,4909
+Northern Mariana Islands,1/19/2021,6372
+Northern Mariana Islands,1/20/2021,6791
+Northern Mariana Islands,1/21/2021,7309
+Northern Mariana Islands,1/22/2021,7720
+Northern Mariana Islands,1/23/2021,8039
+Northern Mariana Islands,1/24/2021,8390
+Northern Mariana Islands,1/25/2021,8495
+Northern Mariana Islands,1/26/2021,8738
+Northern Mariana Islands,1/27/2021,9026
+Northern Mariana Islands,1/28/2021,9251
+Northern Mariana Islands,1/29/2021,9548
+Northern Mariana Islands,1/30/2021,9733
+Northern Mariana Islands,1/31/2021,10050
+Northern Mariana Islands,2/1/2021,10148
+Northern Mariana Islands,2/2/2021,10407
+Northern Mariana Islands,2/3/2021,10655
+Northern Mariana Islands,2/4/2021,10966
+Northern Mariana Islands,2/5/2021,11332
+Northern Mariana Islands,2/6/2021,11697
+Northern Mariana Islands,2/7/2021,11889
+Northern Mariana Islands,2/8/2021,11915
+Northern Mariana Islands,2/9/2021,12264
+Northern Mariana Islands,2/10/2021,12530
+Northern Mariana Islands,2/11/2021,12728
+Northern Mariana Islands,2/12/2021,12971
+Northern Mariana Islands,2/13/2021,13394
+Northern Mariana Islands,2/14/2021,13754
+Northern Mariana Islands,2/16/2021,14419
+Northern Mariana Islands,2/17/2021,14743
+Northern Mariana Islands,2/18/2021,15112
+Northern Mariana Islands,2/19/2021,15525
+Northern Mariana Islands,2/20/2021,15525
+Northern Mariana Islands,2/21/2021,15922
+Northern Mariana Islands,2/22/2021,16091
+Northern Mariana Islands,2/23/2021,16382
+Northern Mariana Islands,2/24/2021,17074
+Northern Mariana Islands,2/25/2021,17473
+Northern Mariana Islands,2/26/2021,17819
+Northern Mariana Islands,2/27/2021,18121
+Northern Mariana Islands,2/28/2021,18363
+Northern Mariana Islands,3/1/2021,18583
+Northern Mariana Islands,3/2/2021,18894
+Northern Mariana Islands,3/3/2021,19225
+Northern Mariana Islands,3/4/2021,19580
+Northern Mariana Islands,3/5/2021,19905
+Northern Mariana Islands,3/6/2021,20309
+Northern Mariana Islands,3/7/2021,20396
+Northern Mariana Islands,3/8/2021,20396
+Northern Mariana Islands,3/9/2021,20708
+Northern Mariana Islands,3/10/2021,21022
+Northern Mariana Islands,3/11/2021,21323
+Northern Mariana Islands,3/12/2021,21638
+Northern Mariana Islands,3/13/2021,22034
+Northern Mariana Islands,3/14/2021,22134
+Northern Mariana Islands,3/15/2021,22134
+Northern Mariana Islands,3/16/2021,22604
+Northern Mariana Islands,3/17/2021,22934
+Northern Mariana Islands,3/18/2021,23266
+Northern Mariana Islands,3/19/2021,23700
+Northern Mariana Islands,3/20/2021,24203
+Northern Mariana Islands,3/21/2021,24795
+Northern Mariana Islands,3/22/2021,24895
+Northern Mariana Islands,3/23/2021,25206
+Northern Mariana Islands,3/24/2021,25607
+Northern Mariana Islands,3/25/2021,26016
+Northern Mariana Islands,3/26/2021,26450
+Northern Mariana Islands,3/27/2021,26987
+Northern Mariana Islands,3/28/2021,27446
+Ohio,1/12/2021,311890
+Ohio,1/13/2021,329318
+Ohio,1/14/2021,348424
+Ohio,1/15/2021,375428
+Ohio,1/19/2021,472084
+Ohio,1/20/2021,487481
+Ohio,1/21/2021,487481
+Ohio,1/22/2021,545499
+Ohio,1/23/2021,594924
+Ohio,1/24/2021,647104
+Ohio,1/25/2021,685622
+Ohio,1/26/2021,708026
+Ohio,1/27/2021,746249
+Ohio,1/28/2021,789869
+Ohio,1/29/2021,843099
+Ohio,1/30/2021,911004
+Ohio,1/31/2021,954013
+Ohio,2/1/2021,1004624
+Ohio,2/2/2021,1045139
+Ohio,2/3/2021,1085391
+Ohio,2/4/2021,1128082
+Ohio,2/5/2021,1177237
+Ohio,2/6/2021,1242487
+Ohio,2/7/2021,1293965
+Ohio,2/8/2021,1346320
+Ohio,2/9/2021,1373728
+Ohio,2/10/2021,1406437
+Ohio,2/11/2021,1459174
+Ohio,2/12/2021,1540491
+Ohio,2/13/2021,1613153
+Ohio,2/14/2021,1691925
+Ohio,2/16/2021,1794982
+Ohio,2/17/2021,1825178
+Ohio,2/18/2021,1861434
+Ohio,2/19/2021,1999736
+Ohio,2/20/2021,2066995
+Ohio,2/21/2021,2140688
+Ohio,2/22/2021,2196607
+Ohio,2/23/2021,2228732
+Ohio,2/24/2021,2288128
+Ohio,2/25/2021,2351582
+Ohio,2/26/2021,2413164
+Ohio,2/27/2021,2501854
+Ohio,2/28/2021,2599806
+Ohio,3/1/2021,2660844
+Ohio,3/2/2021,2723208
+Ohio,3/3/2021,2790056
+Ohio,3/4/2021,2850454
+Ohio,3/5/2021,2918114
+Ohio,3/6/2021,3027215
+Ohio,3/7/2021,3131288
+Ohio,3/8/2021,3203772
+Ohio,3/9/2021,3255735
+Ohio,3/10/2021,3316480
+Ohio,3/11/2021,3391091
+Ohio,3/12/2021,3494036
+Ohio,3/13/2021,3624261
+Ohio,3/14/2021,3732147
+Ohio,3/15/2021,3819317
+Ohio,3/16/2021,3862956
+Ohio,3/17/2021,3928456
+Ohio,3/18/2021,4018634
+Ohio,3/19/2021,4124492
+Ohio,3/20/2021,4240062
+Ohio,3/21/2021,4364513
+Ohio,3/22/2021,4447020
+Ohio,3/23/2021,4499814
+Ohio,3/24/2021,4582163
+Ohio,3/25/2021,4679419
+Ohio,3/26/2021,4805634
+Ohio,3/27/2021,4946129
+Ohio,3/28/2021,5074719
+Oklahoma,1/12/2021,157843
+Oklahoma,1/13/2021,172403
+Oklahoma,1/14/2021,187266
+Oklahoma,1/15/2021,203410
+Oklahoma,1/19/2021,242093
+Oklahoma,1/20/2021,251684
+Oklahoma,1/21/2021,267434
+Oklahoma,1/22/2021,287502
+Oklahoma,1/23/2021,304806
+Oklahoma,1/24/2021,322810
+Oklahoma,1/25/2021,326546
+Oklahoma,1/26/2021,328874
+Oklahoma,1/27/2021,345144
+Oklahoma,1/28/2021,363253
+Oklahoma,1/29/2021,386688
+Oklahoma,1/30/2021,410305
+Oklahoma,1/31/2021,437985
+Oklahoma,2/1/2021,443581
+Oklahoma,2/2/2021,445675
+Oklahoma,2/3/2021,462440
+Oklahoma,2/4/2021,484384
+Oklahoma,2/5/2021,510693
+Oklahoma,2/6/2021,541252
+Oklahoma,2/7/2021,573746
+Oklahoma,2/8/2021,586054
+Oklahoma,2/9/2021,588207
+Oklahoma,2/10/2021,606406
+Oklahoma,2/11/2021,628361
+Oklahoma,2/12/2021,640353
+Oklahoma,2/13/2021,660835
+Oklahoma,2/14/2021,682354
+Oklahoma,2/16/2021,694616
+Oklahoma,2/17/2021,696437
+Oklahoma,2/18/2021,700440
+Oklahoma,2/19/2021,813518
+Oklahoma,2/20/2021,830903
+Oklahoma,2/21/2021,865961
+Oklahoma,2/22/2021,891227
+Oklahoma,2/23/2021,906583
+Oklahoma,2/24/2021,935457
+Oklahoma,2/25/2021,967522
+Oklahoma,2/26/2021,1006064
+Oklahoma,2/27/2021,1046995
+Oklahoma,2/28/2021,1095362
+Oklahoma,3/1/2021,1119049
+Oklahoma,3/2/2021,1124662
+Oklahoma,3/3/2021,1147833
+Oklahoma,3/4/2021,1181414
+Oklahoma,3/5/2021,1213040
+Oklahoma,3/6/2021,1246152
+Oklahoma,3/7/2021,1278427
+Oklahoma,3/8/2021,1300639
+Oklahoma,3/9/2021,1307274
+Oklahoma,3/10/2021,1334818
+Oklahoma,3/11/2021,1364914
+Oklahoma,3/12/2021,1398278
+Oklahoma,3/13/2021,1435464
+Oklahoma,3/14/2021,1465197
+Oklahoma,3/15/2021,1483295
+Oklahoma,3/16/2021,1488390
+Oklahoma,3/17/2021,1519597
+Oklahoma,3/18/2021,1551665
+Oklahoma,3/19/2021,1585046
+Oklahoma,3/20/2021,1616226
+Oklahoma,3/21/2021,1652639
+Oklahoma,3/22/2021,1674556
+Oklahoma,3/23/2021,1682725
+Oklahoma,3/24/2021,1717541
+Oklahoma,3/25/2021,1753658
+Oklahoma,3/26/2021,1790349
+Oklahoma,3/27/2021,1827618
+Oklahoma,3/28/2021,1869610
+Oregon,1/12/2021,104610
+Oregon,1/13/2021,115075
+Oregon,1/14/2021,129796
+Oregon,1/15/2021,146153
+Oregon,1/19/2021,216928
+Oregon,1/20/2021,216928
+Oregon,1/21/2021,216928
+Oregon,1/22/2021,253705
+Oregon,1/23/2021,270463
+Oregon,1/24/2021,285922
+Oregon,1/25/2021,300676
+Oregon,1/26/2021,308066
+Oregon,1/27/2021,325488
+Oregon,1/28/2021,340383
+Oregon,1/29/2021,359391
+Oregon,1/30/2021,382392
+Oregon,1/31/2021,407890
+Oregon,2/1/2021,423627
+Oregon,2/2/2021,438302
+Oregon,2/3/2021,454269
+Oregon,2/4/2021,471983
+Oregon,2/5/2021,487153
+Oregon,2/6/2021,509875
+Oregon,2/7/2021,532746
+Oregon,2/8/2021,554440
+Oregon,2/9/2021,572695
+Oregon,2/10/2021,589035
+Oregon,2/11/2021,589035
+Oregon,2/12/2021,589035
+Oregon,2/13/2021,650929
+Oregon,2/14/2021,671315
+Oregon,2/16/2021,685214
+Oregon,2/17/2021,692781
+Oregon,2/18/2021,708570
+Oregon,2/19/2021,767637
+Oregon,2/20/2021,794779
+Oregon,2/21/2021,821720
+Oregon,2/22/2021,844210
+Oregon,2/23/2021,864960
+Oregon,2/24/2021,865750
+Oregon,2/25/2021,889531
+Oregon,2/26/2021,927860
+Oregon,2/27/2021,960674
+Oregon,2/28/2021,994403
+Oregon,3/1/2021,1024055
+Oregon,3/2/2021,1038342
+Oregon,3/3/2021,1050060
+Oregon,3/4/2021,1073041
+Oregon,3/5/2021,1097974
+Oregon,3/6/2021,1137864
+Oregon,3/7/2021,1172840
+Oregon,3/8/2021,1199682
+Oregon,3/9/2021,1221981
+Oregon,3/10/2021,1238835
+Oregon,3/11/2021,1239800
+Oregon,3/12/2021,1271685
+Oregon,3/13/2021,1334042
+Oregon,3/14/2021,1366471
+Oregon,3/15/2021,1387803
+Oregon,3/16/2021,1412282
+Oregon,3/17/2021,1414113
+Oregon,3/18/2021,1433105
+Oregon,3/19/2021,1483419
+Oregon,3/20/2021,1523965
+Oregon,3/21/2021,1560983
+Oregon,3/22/2021,1584449
+Oregon,3/23/2021,1606844
+Oregon,3/24/2021,1626721
+Oregon,3/25/2021,1657083
+Oregon,3/26/2021,1694736
+Oregon,3/27/2021,1737553
+Oregon,3/28/2021,1772914
+Pennsylvania,1/12/2021,341948
+Pennsylvania,1/13/2021,379944
+Pennsylvania,1/14/2021,410414
+Pennsylvania,1/15/2021,448151
+Pennsylvania,1/19/2021,544416
+Pennsylvania,1/20/2021,568660
+Pennsylvania,1/21/2021,605428
+Pennsylvania,1/22/2021,652886
+Pennsylvania,1/23/2021,695870
+Pennsylvania,1/24/2021,744591
+Pennsylvania,1/25/2021,776799
+Pennsylvania,1/26/2021,800354
+Pennsylvania,1/27/2021,851980
+Pennsylvania,1/28/2021,856371
+Pennsylvania,1/29/2021,972742
+Pennsylvania,1/30/2021,1032426
+Pennsylvania,1/31/2021,1088172
+Pennsylvania,2/1/2021,1134185
+Pennsylvania,2/2/2021,1155945
+Pennsylvania,2/3/2021,1158091
+Pennsylvania,2/4/2021,1218735
+Pennsylvania,2/5/2021,1271529
+Pennsylvania,2/6/2021,1338491
+Pennsylvania,2/7/2021,1407839
+Pennsylvania,2/8/2021,1441358
+Pennsylvania,2/9/2021,1478180
+Pennsylvania,2/10/2021,1538058
+Pennsylvania,2/11/2021,1594474
+Pennsylvania,2/12/2021,1668862
+Pennsylvania,2/13/2021,1678229
+Pennsylvania,2/14/2021,1822327
+Pennsylvania,2/16/2021,1832629
+Pennsylvania,2/17/2021,1950185
+Pennsylvania,2/18/2021,2002786
+Pennsylvania,2/19/2021,2184973
+Pennsylvania,2/20/2021,2231800
+Pennsylvania,2/21/2021,2306828
+Pennsylvania,2/22/2021,2358058
+Pennsylvania,2/23/2021,2381079
+Pennsylvania,2/24/2021,2425429
+Pennsylvania,2/25/2021,2489919
+Pennsylvania,2/26/2021,2562627
+Pennsylvania,2/27/2021,2676006
+Pennsylvania,2/28/2021,2751844
+Pennsylvania,3/1/2021,2835338
+Pennsylvania,3/2/2021,2886451
+Pennsylvania,3/3/2021,2948581
+Pennsylvania,3/4/2021,3036398
+Pennsylvania,3/5/2021,3169691
+Pennsylvania,3/6/2021,3298800
+Pennsylvania,3/7/2021,3319263
+Pennsylvania,3/8/2021,3335592
+Pennsylvania,3/9/2021,3524263
+Pennsylvania,3/10/2021,3638014
+Pennsylvania,3/11/2021,3737143
+Pennsylvania,3/12/2021,3759104
+Pennsylvania,3/13/2021,4093668
+Pennsylvania,3/14/2021,4191298
+Pennsylvania,3/15/2021,4283453
+Pennsylvania,3/16/2021,4340831
+Pennsylvania,3/17/2021,4491125
+Pennsylvania,3/18/2021,4591687
+Pennsylvania,3/19/2021,4612975
+Pennsylvania,3/20/2021,4637450
+Pennsylvania,3/21/2021,4639971
+Pennsylvania,3/22/2021,4748613
+Pennsylvania,3/23/2021,5150999
+Pennsylvania,3/24/2021,5290020
+Pennsylvania,3/25/2021,5325139
+Pennsylvania,3/26/2021,5516639
+Pennsylvania,3/27/2021,5670930
+Pennsylvania,3/28/2021,5795550
+Puerto Rico,1/12/2021,74559
+Puerto Rico,1/13/2021,84432
+Puerto Rico,1/14/2021,94880
+Puerto Rico,1/15/2021,104137
+Puerto Rico,1/19/2021,129530
+Puerto Rico,1/20/2021,136630
+Puerto Rico,1/21/2021,147795
+Puerto Rico,1/22/2021,161528
+Puerto Rico,1/23/2021,173242
+Puerto Rico,1/24/2021,184173
+Puerto Rico,1/25/2021,187617
+Puerto Rico,1/26/2021,188681
+Puerto Rico,1/27/2021,199762
+Puerto Rico,1/28/2021,212179
+Puerto Rico,1/29/2021,224303
+Puerto Rico,1/30/2021,236060
+Puerto Rico,1/31/2021,249394
+Puerto Rico,2/1/2021,253439
+Puerto Rico,2/2/2021,253439
+Puerto Rico,2/3/2021,266671
+Puerto Rico,2/4/2021,278321
+Puerto Rico,2/5/2021,288024
+Puerto Rico,2/6/2021,299694
+Puerto Rico,2/7/2021,299694
+Puerto Rico,2/8/2021,299694
+Puerto Rico,2/9/2021,314047
+Puerto Rico,2/10/2021,324368
+Puerto Rico,2/11/2021,336959
+Puerto Rico,2/12/2021,336959
+Puerto Rico,2/13/2021,370837
+Puerto Rico,2/14/2021,382721
+Puerto Rico,2/16/2021,387180
+Puerto Rico,2/17/2021,392136
+Puerto Rico,2/18/2021,408058
+Puerto Rico,2/19/2021,448755
+Puerto Rico,2/20/2021,463527
+Puerto Rico,2/21/2021,476475
+Puerto Rico,2/22/2021,476647
+Puerto Rico,2/23/2021,480439
+Puerto Rico,2/24/2021,495114
+Puerto Rico,2/25/2021,510041
+Puerto Rico,2/26/2021,536377
+Puerto Rico,2/27/2021,538085
+Puerto Rico,2/28/2021,549615
+Puerto Rico,3/1/2021,554664
+Puerto Rico,3/2/2021,554694
+Puerto Rico,3/3/2021,568025
+Puerto Rico,3/4/2021,595224
+Puerto Rico,3/5/2021,596130
+Puerto Rico,3/6/2021,611567
+Puerto Rico,3/7/2021,628400
+Puerto Rico,3/8/2021,633344
+Puerto Rico,3/9/2021,635352
+Puerto Rico,3/10/2021,674636
+Puerto Rico,3/11/2021,675568
+Puerto Rico,3/12/2021,698082
+Puerto Rico,3/13/2021,748875
+Puerto Rico,3/14/2021,748875
+Puerto Rico,3/15/2021,748982
+Puerto Rico,3/16/2021,764943
+Puerto Rico,3/17/2021,788188
+Puerto Rico,3/18/2021,814157
+Puerto Rico,3/19/2021,839948
+Puerto Rico,3/20/2021,863265
+Puerto Rico,3/21/2021,886400
+Puerto Rico,3/22/2021,896153
+Puerto Rico,3/23/2021,902839
+Puerto Rico,3/24/2021,920753
+Puerto Rico,3/25/2021,952499
+Puerto Rico,3/26/2021,981193
+Puerto Rico,3/27/2021,1015714
+Puerto Rico,3/28/2021,1044040
+Republic of Palau,1/12/2021,416
+Republic of Palau,1/13/2021,725
+Republic of Palau,1/14/2021,766
+Republic of Palau,1/15/2021,1119
+Republic of Palau,1/19/2021,1914
+Republic of Palau,1/20/2021,1981
+Republic of Palau,1/21/2021,2405
+Republic of Palau,1/22/2021,2405
+Republic of Palau,1/23/2021,2685
+Republic of Palau,1/24/2021,3046
+Republic of Palau,1/25/2021,3046
+Republic of Palau,1/26/2021,3046
+Republic of Palau,1/27/2021,3046
+Republic of Palau,1/28/2021,3067
+Republic of Palau,1/29/2021,3089
+Republic of Palau,1/30/2021,3110
+Republic of Palau,1/31/2021,3110
+Republic of Palau,2/1/2021,3110
+Republic of Palau,2/2/2021,3172
+Republic of Palau,2/3/2021,3228
+Republic of Palau,2/4/2021,3228
+Republic of Palau,2/5/2021,3360
+Republic of Palau,2/6/2021,3360
+Republic of Palau,2/7/2021,3467
+Republic of Palau,2/8/2021,3467
+Republic of Palau,2/9/2021,3468
+Republic of Palau,2/10/2021,3527
+Republic of Palau,2/11/2021,3831
+Republic of Palau,2/12/2021,3871
+Republic of Palau,2/13/2021,4212
+Republic of Palau,2/14/2021,4321
+Republic of Palau,2/16/2021,4677
+Republic of Palau,2/17/2021,5011
+Republic of Palau,2/18/2021,5314
+Republic of Palau,2/19/2021,5727
+Republic of Palau,2/20/2021,6025
+Republic of Palau,2/21/2021,6314
+Republic of Palau,2/22/2021,6314
+Republic of Palau,2/23/2021,7073
+Republic of Palau,2/24/2021,7073
+Republic of Palau,2/25/2021,8111
+Republic of Palau,2/26/2021,8143
+Republic of Palau,2/27/2021,8143
+Republic of Palau,2/28/2021,8185
+Republic of Palau,3/1/2021,8185
+Republic of Palau,3/2/2021,8185
+Republic of Palau,3/3/2021,8185
+Republic of Palau,3/4/2021,8185
+Republic of Palau,3/5/2021,8185
+Republic of Palau,3/6/2021,8185
+Republic of Palau,3/7/2021,8185
+Republic of Palau,3/8/2021,8185
+Republic of Palau,3/9/2021,8185
+Republic of Palau,3/10/2021,8586
+Republic of Palau,3/11/2021,8902
+Republic of Palau,3/12/2021,9193
+Republic of Palau,3/13/2021,9694
+Republic of Palau,3/14/2021,9694
+Republic of Palau,3/15/2021,9694
+Republic of Palau,3/16/2021,10197
+Republic of Palau,3/17/2021,10726
+Republic of Palau,3/18/2021,10962
+Republic of Palau,3/19/2021,11500
+Republic of Palau,3/20/2021,11804
+Republic of Palau,3/21/2021,11804
+Republic of Palau,3/22/2021,11844
+Republic of Palau,3/23/2021,12247
+Republic of Palau,3/24/2021,12644
+Republic of Palau,3/25/2021,13277
+Republic of Palau,3/26/2021,13334
+Republic of Palau,3/27/2021,13334
+Republic of Palau,3/28/2021,13381
+Rhode Island,1/12/2021,39568
+Rhode Island,1/13/2021,42028
+Rhode Island,1/14/2021,44871
+Rhode Island,1/15/2021,47548
+Rhode Island,1/19/2021,54081
+Rhode Island,1/20/2021,56617
+Rhode Island,1/21/2021,59014
+Rhode Island,1/22/2021,61974
+Rhode Island,1/23/2021,63249
+Rhode Island,1/24/2021,67566
+Rhode Island,1/25/2021,70419
+Rhode Island,1/26/2021,72264
+Rhode Island,1/27/2021,76284
+Rhode Island,1/28/2021,80138
+Rhode Island,1/29/2021,83607
+Rhode Island,1/30/2021,88094
+Rhode Island,1/31/2021,91177
+Rhode Island,2/1/2021,94240
+Rhode Island,2/2/2021,99541
+Rhode Island,2/3/2021,101474
+Rhode Island,2/4/2021,103876
+Rhode Island,2/5/2021,106949
+Rhode Island,2/6/2021,111830
+Rhode Island,2/7/2021,117067
+Rhode Island,2/8/2021,120484
+Rhode Island,2/9/2021,122079
+Rhode Island,2/10/2021,124962
+Rhode Island,2/11/2021,127931
+Rhode Island,2/12/2021,131913
+Rhode Island,2/13/2021,136904
+Rhode Island,2/14/2021,141155
+Rhode Island,2/16/2021,147019
+Rhode Island,2/17/2021,151436
+Rhode Island,2/18/2021,159931
+Rhode Island,2/19/2021,181725
+Rhode Island,2/20/2021,190896
+Rhode Island,2/21/2021,198626
+Rhode Island,2/22/2021,206034
+Rhode Island,2/23/2021,211660
+Rhode Island,2/24/2021,218499
+Rhode Island,2/25/2021,226694
+Rhode Island,2/26/2021,234889
+Rhode Island,2/27/2021,245606
+Rhode Island,2/28/2021,256755
+Rhode Island,3/1/2021,269512
+Rhode Island,3/2/2021,275799
+Rhode Island,3/3/2021,282767
+Rhode Island,3/4/2021,290963
+Rhode Island,3/5/2021,300529
+Rhode Island,3/6/2021,310283
+Rhode Island,3/7/2021,319369
+Rhode Island,3/8/2021,326730
+Rhode Island,3/9/2021,333607
+Rhode Island,3/10/2021,340997
+Rhode Island,3/11/2021,350979
+Rhode Island,3/12/2021,359501
+Rhode Island,3/13/2021,367414
+Rhode Island,3/14/2021,374193
+Rhode Island,3/15/2021,388420
+Rhode Island,3/16/2021,396843
+Rhode Island,3/17/2021,403044
+Rhode Island,3/18/2021,411715
+Rhode Island,3/19/2021,425397
+Rhode Island,3/20/2021,440476
+Rhode Island,3/21/2021,454586
+Rhode Island,3/22/2021,469205
+Rhode Island,3/23/2021,480045
+Rhode Island,3/24/2021,488045
+Rhode Island,3/25/2021,497475
+Rhode Island,3/26/2021,507094
+Rhode Island,3/27/2021,515234
+Rhode Island,3/28/2021,526086
+South Carolina,1/12/2021,81075
+South Carolina,1/13/2021,99887
+South Carolina,1/14/2021,115855
+South Carolina,1/15/2021,121836
+South Carolina,1/19/2021,187175
+South Carolina,1/20/2021,192608
+South Carolina,1/21/2021,209631
+South Carolina,1/22/2021,229002
+South Carolina,1/23/2021,249155
+South Carolina,1/24/2021,278795
+South Carolina,1/25/2021,307348
+South Carolina,1/26/2021,317211
+South Carolina,1/27/2021,326985
+South Carolina,1/28/2021,359949
+South Carolina,1/29/2021,385158
+South Carolina,1/30/2021,407860
+South Carolina,1/31/2021,439541
+South Carolina,2/1/2021,462751
+South Carolina,2/2/2021,470696
+South Carolina,2/3/2021,479202
+South Carolina,2/4/2021,497433
+South Carolina,2/5/2021,518892
+South Carolina,2/6/2021,542879
+South Carolina,2/7/2021,568917
+South Carolina,2/8/2021,585692
+South Carolina,2/9/2021,585692
+South Carolina,2/10/2021,608062
+South Carolina,2/11/2021,628496
+South Carolina,2/12/2021,649375
+South Carolina,2/13/2021,674843
+South Carolina,2/14/2021,704186
+South Carolina,2/16/2021,738476
+South Carolina,2/17/2021,755422
+South Carolina,2/18/2021,778113
+South Carolina,2/19/2021,848054
+South Carolina,2/20/2021,879776
+South Carolina,2/21/2021,910669
+South Carolina,2/22/2021,932588
+South Carolina,2/23/2021,941136
+South Carolina,2/24/2021,973703
+South Carolina,2/25/2021,997874
+South Carolina,2/26/2021,1025316
+South Carolina,2/27/2021,1057969
+South Carolina,2/28/2021,1086550
+South Carolina,3/1/2021,1116811
+South Carolina,3/2/2021,1123049
+South Carolina,3/3/2021,1150199
+South Carolina,3/4/2021,1202753
+South Carolina,3/5/2021,1232377
+South Carolina,3/6/2021,1284575
+South Carolina,3/7/2021,1347330
+South Carolina,3/8/2021,1380510
+South Carolina,3/9/2021,1397362
+South Carolina,3/10/2021,1423016
+South Carolina,3/11/2021,1461672
+South Carolina,3/12/2021,1493376
+South Carolina,3/13/2021,1583500
+South Carolina,3/14/2021,1583500
+South Carolina,3/15/2021,1618854
+South Carolina,3/16/2021,1627125
+South Carolina,3/17/2021,1649023
+South Carolina,3/18/2021,1686210
+South Carolina,3/19/2021,1723604
+South Carolina,3/20/2021,1745511
+South Carolina,3/21/2021,1793297
+South Carolina,3/22/2021,1834965
+South Carolina,3/23/2021,1848117
+South Carolina,3/24/2021,1889498
+South Carolina,3/25/2021,1926363
+South Carolina,3/26/2021,1969766
+South Carolina,3/27/2021,2017582
+South Carolina,3/28/2021,2066478
+South Dakota,1/12/2021,48698
+South Dakota,1/13/2021,50712
+South Dakota,1/14/2021,54284
+South Dakota,1/15/2021,57103
+South Dakota,1/19/2021,61113
+South Dakota,1/20/2021,62518
+South Dakota,1/21/2021,65377
+South Dakota,1/22/2021,70643
+South Dakota,1/23/2021,77200
+South Dakota,1/24/2021,80441
+South Dakota,1/25/2021,82512
+South Dakota,1/26/2021,82823
+South Dakota,1/27/2021,86986
+South Dakota,1/28/2021,91776
+South Dakota,1/29/2021,97231
+South Dakota,1/30/2021,102847
+South Dakota,1/31/2021,105961
+South Dakota,2/1/2021,107685
+South Dakota,2/2/2021,108004
+South Dakota,2/3/2021,110967
+South Dakota,2/4/2021,115676
+South Dakota,2/5/2021,121593
+South Dakota,2/6/2021,127592
+South Dakota,2/7/2021,131439
+South Dakota,2/8/2021,133068
+South Dakota,2/9/2021,133231
+South Dakota,2/10/2021,136438
+South Dakota,2/11/2021,141733
+South Dakota,2/12/2021,148670
+South Dakota,2/13/2021,155026
+South Dakota,2/14/2021,160223
+South Dakota,2/16/2021,162885
+South Dakota,2/17/2021,165865
+South Dakota,2/18/2021,171175
+South Dakota,2/19/2021,218198
+South Dakota,2/20/2021,225848
+South Dakota,2/21/2021,232725
+South Dakota,2/22/2021,235964
+South Dakota,2/23/2021,237230
+South Dakota,2/24/2021,242710
+South Dakota,2/25/2021,250216
+South Dakota,2/26/2021,259553
+South Dakota,2/27/2021,269289
+South Dakota,2/28/2021,278285
+South Dakota,3/1/2021,282075
+South Dakota,3/2/2021,282575
+South Dakota,3/3/2021,287657
+South Dakota,3/4/2021,294765
+South Dakota,3/5/2021,304382
+South Dakota,3/6/2021,314577
+South Dakota,3/7/2021,322959
+South Dakota,3/8/2021,326272
+South Dakota,3/9/2021,326763
+South Dakota,3/10/2021,332059
+South Dakota,3/11/2021,339564
+South Dakota,3/12/2021,349016
+South Dakota,3/13/2021,360667
+South Dakota,3/14/2021,373065
+South Dakota,3/15/2021,378505
+South Dakota,3/16/2021,379911
+South Dakota,3/17/2021,384987
+South Dakota,3/18/2021,392994
+South Dakota,3/19/2021,403411
+South Dakota,3/20/2021,414458
+South Dakota,3/21/2021,424806
+South Dakota,3/22/2021,428076
+South Dakota,3/23/2021,429022
+South Dakota,3/24/2021,436290
+South Dakota,3/25/2021,445142
+South Dakota,3/26/2021,457075
+South Dakota,3/27/2021,471664
+South Dakota,3/28/2021,482516
+Tennessee,1/12/2021,251257
+Tennessee,1/13/2021,264713
+Tennessee,1/14/2021,264713
+Tennessee,1/15/2021,303338
+Tennessee,1/19/2021,351813
+Tennessee,1/20/2021,358534
+Tennessee,1/21/2021,375669
+Tennessee,1/22/2021,401595
+Tennessee,1/23/2021,424152
+Tennessee,1/24/2021,452042
+Tennessee,1/25/2021,462646
+Tennessee,1/26/2021,467933
+Tennessee,1/27/2021,487632
+Tennessee,1/28/2021,510050
+Tennessee,1/29/2021,545921
+Tennessee,1/30/2021,574142
+Tennessee,1/31/2021,609213
+Tennessee,2/1/2021,627911
+Tennessee,2/2/2021,631885
+Tennessee,2/3/2021,657819
+Tennessee,2/4/2021,684242
+Tennessee,2/5/2021,718487
+Tennessee,2/6/2021,752298
+Tennessee,2/7/2021,791023
+Tennessee,2/8/2021,805720
+Tennessee,2/9/2021,812079
+Tennessee,2/10/2021,839686
+Tennessee,2/11/2021,866352
+Tennessee,2/12/2021,901616
+Tennessee,2/13/2021,926787
+Tennessee,2/14/2021,967085
+Tennessee,2/16/2021,992988
+Tennessee,2/17/2021,999517
+Tennessee,2/18/2021,1014351
+Tennessee,2/19/2021,1083579
+Tennessee,2/20/2021,1097826
+Tennessee,2/21/2021,1117120
+Tennessee,2/22/2021,1130834
+Tennessee,2/23/2021,1139836
+Tennessee,2/24/2021,1175995
+Tennessee,2/25/2021,1210159
+Tennessee,2/26/2021,1257333
+Tennessee,2/27/2021,1301529
+Tennessee,2/28/2021,1359382
+Tennessee,3/1/2021,1394659
+Tennessee,3/2/2021,1405604
+Tennessee,3/3/2021,1455498
+Tennessee,3/4/2021,1492576
+Tennessee,3/5/2021,1540428
+Tennessee,3/6/2021,1580755
+Tennessee,3/7/2021,1634598
+Tennessee,3/8/2021,1659254
+Tennessee,3/9/2021,1667642
+Tennessee,3/10/2021,1711512
+Tennessee,3/11/2021,1757433
+Tennessee,3/12/2021,1812050
+Tennessee,3/13/2021,1865861
+Tennessee,3/14/2021,1921346
+Tennessee,3/15/2021,1952377
+Tennessee,3/16/2021,1960657
+Tennessee,3/17/2021,2007555
+Tennessee,3/18/2021,2054500
+Tennessee,3/19/2021,2093850
+Tennessee,3/20/2021,2141857
+Tennessee,3/21/2021,2198555
+Tennessee,3/22/2021,2231739
+Tennessee,3/23/2021,2246032
+Tennessee,3/24/2021,2297569
+Tennessee,3/25/2021,2353612
+Tennessee,3/26/2021,2416556
+Tennessee,3/27/2021,2477807
+Tennessee,3/28/2021,2545370
+Texas,1/12/2021,911461
+Texas,1/13/2021,978042
+Texas,1/14/2021,1043624
+Texas,1/15/2021,1160242
+Texas,1/19/2021,1403989
+Texas,1/20/2021,1471746
+Texas,1/21/2021,1544551
+Texas,1/22/2021,1644781
+Texas,1/23/2021,1727869
+Texas,1/24/2021,1763299
+Texas,1/25/2021,1804006
+Texas,1/26/2021,1917896
+Texas,1/27/2021,1974374
+Texas,1/28/2021,2107005
+Texas,1/29/2021,2219867
+Texas,1/30/2021,2340658
+Texas,1/31/2021,2408879
+Texas,2/1/2021,2496232
+Texas,2/2/2021,2496232
+Texas,2/3/2021,2652896
+Texas,2/4/2021,2805359
+Texas,2/5/2021,2930767
+Texas,2/6/2021,3107936
+Texas,2/7/2021,3246638
+Texas,2/8/2021,3322062
+Texas,2/9/2021,3436180
+Texas,2/10/2021,3568618
+Texas,2/11/2021,3708460
+Texas,2/12/2021,3873581
+Texas,2/13/2021,4007986
+Texas,2/14/2021,4133747
+Texas,2/16/2021,4256383
+Texas,2/17/2021,4312301
+Texas,2/18/2021,4333726
+Texas,2/19/2021,4542622
+Texas,2/20/2021,4614697
+Texas,2/21/2021,4673868
+Texas,2/22/2021,4711180
+Texas,2/23/2021,4800286
+Texas,2/24/2021,4923960
+Texas,2/25/2021,5107257
+Texas,2/26/2021,5273077
+Texas,2/27/2021,5394961
+Texas,2/28/2021,5566612
+Texas,3/1/2021,5572496
+Texas,3/2/2021,5956629
+Texas,3/3/2021,6191550
+Texas,3/4/2021,6379094
+Texas,3/5/2021,6591175
+Texas,3/6/2021,6829275
+Texas,3/7/2021,6938167
+Texas,3/8/2021,7071506
+Texas,3/9/2021,7299866
+Texas,3/10/2021,7529655
+Texas,3/11/2021,7730664
+Texas,3/12/2021,8005490
+Texas,3/13/2021,8261238
+Texas,3/14/2021,8421946
+Texas,3/15/2021,8547673
+Texas,3/16/2021,8660886
+Texas,3/17/2021,8850377
+Texas,3/18/2021,9055037
+Texas,3/19/2021,9237352
+Texas,3/20/2021,9428516
+Texas,3/21/2021,9611867
+Texas,3/22/2021,9734465
+Texas,3/23/2021,9845182
+Texas,3/24/2021,9841589
+Texas,3/25/2021,10133617
+Texas,3/26/2021,10420919
+Texas,3/27/2021,10700661
+Texas,3/28/2021,10941968
+United States,12/20/2020,556208
+United States,12/21/2020,614117
+United States,12/23/2020,1008025
+United States,12/26/2020,1944585
+United States,12/28/2020,2127143
+United States,12/30/2020,2794588
+United States,1/2/2021,4225756
+United States,1/4/2021,4563260
+United States,1/5/2021,4836469
+United States,1/6/2021,5306797
+United States,1/7/2021,5919418
+United States,1/8/2021,6688231
+United States,1/11/2021,8987322
+United States,1/12/2021,9327138
+United States,1/13/2021,10278462
+United States,1/14/2021,11148991
+United States,1/15/2021,12279180
+United States,1/19/2021,15707588
+United States,1/20/2021,16525281
+United States,1/21/2021,17546374
+United States,1/22/2021,19107959
+United States,1/23/2021,20537990
+United States,1/24/2021,21848655
+United States,1/25/2021,22734243
+United States,1/26/2021,23540994
+United States,1/27/2021,24652634
+United States,1/28/2021,26193682
+United States,1/29/2021,27884661
+United States,1/30/2021,29577902
+United States,1/31/2021,31123299
+United States,2/1/2021,32222402
+United States,2/2/2021,32780860
+United States,2/3/2021,33878254
+United States,2/4/2021,35203710
+United States,2/5/2021,36819212
+United States,2/6/2021,39037964
+United States,2/7/2021,41210937
+United States,2/8/2021,42417617
+United States,2/9/2021,43206190
+United States,2/10/2021,44769970
+United States,2/11/2021,46390270
+United States,2/12/2021,48410558
+United States,2/13/2021,50641884
+United States,2/14/2021,52884356
+United States,2/16/2021,55220364
+United States,2/17/2021,56281827
+United States,2/18/2021,57737767
+United States,2/19/2021,59585043
+United States,2/20/2021,61289500
+United States,2/21/2021,63090634
+United States,2/22/2021,64177474
+United States,2/23/2021,65032083
+United States,2/24/2021,66464947
+United States,2/25/2021,68274117
+United States,2/26/2021,70454064
+United States,2/27/2021,72806180
+United States,2/28/2021,75236003
+United States,3/1/2021,76899987
+United States,3/2/2021,78631601
+United States,3/3/2021,80540474
+United States,3/4/2021,82572848
+United States,3/5/2021,85008094
+United States,3/6/2021,87912323
+United States,3/7/2021,90351750
+United States,3/8/2021,92089852
+United States,3/9/2021,93692598
+United States,3/10/2021,95721290
+United States,3/11/2021,98203893
+United States,3/12/2021,101128005
+United States,3/13/2021,105703501
+United States,3/14/2021,107060274
+United States,3/15/2021,109081860
+United States,3/16/2021,110737856
+United States,3/17/2021,113037627
+United States,3/18/2021,115730008
+United States,3/19/2021,118313818
+United States,3/20/2021,121441497
+United States,3/21/2021,124481412
+United States,3/22/2021,126509736
+United States,3/23/2021,128217029
+United States,3/24/2021,130473853
+United States,3/25/2021,133305295
+United States,3/26/2021,136684688
+United States,3/27/2021,140180735
+United States,3/28/2021,143462691
+Utah,1/12/2021,95225
+Utah,1/13/2021,104036
+Utah,1/14/2021,115384
+Utah,1/15/2021,128210
+Utah,1/19/2021,163205
+Utah,1/20/2021,181792
+Utah,1/21/2021,189578
+Utah,1/22/2021,202729
+Utah,1/23/2021,202729
+Utah,1/24/2021,202729
+Utah,1/25/2021,229007
+Utah,1/26/2021,230418
+Utah,1/27/2021,239807
+Utah,1/28/2021,239807
+Utah,1/29/2021,271127
+Utah,1/30/2021,286501
+Utah,1/31/2021,286501
+Utah,2/1/2021,323030
+Utah,2/2/2021,324636
+Utah,2/3/2021,324636
+Utah,2/4/2021,353469
+Utah,2/5/2021,376495
+Utah,2/6/2021,400285
+Utah,2/7/2021,400285
+Utah,2/8/2021,506629
+Utah,2/9/2021,510267
+Utah,2/10/2021,510267
+Utah,2/11/2021,510267
+Utah,2/12/2021,510267
+Utah,2/13/2021,510267
+Utah,2/14/2021,510267
+Utah,2/16/2021,532635
+Utah,2/17/2021,532635
+Utah,2/18/2021,551742
+Utah,2/19/2021,584648
+Utah,2/20/2021,610074
+Utah,2/21/2021,610580
+Utah,2/22/2021,610874
+Utah,2/23/2021,611048
+Utah,2/24/2021,629173
+Utah,2/25/2021,662012
+Utah,2/26/2021,662575
+Utah,2/27/2021,687876
+Utah,2/28/2021,688505
+Utah,3/1/2021,688506
+Utah,3/2/2021,722301
+Utah,3/3/2021,745913
+Utah,3/4/2021,746392
+Utah,3/5/2021,796749
+Utah,3/6/2021,832435
+Utah,3/7/2021,833167
+Utah,3/8/2021,833714
+Utah,3/9/2021,880032
+Utah,3/10/2021,903099
+Utah,3/11/2021,903758
+Utah,3/12/2021,945378
+Utah,3/13/2021,977728
+Utah,3/14/2021,1007495
+Utah,3/15/2021,1008582
+Utah,3/16/2021,1030630
+Utah,3/17/2021,1052347
+Utah,3/18/2021,1069752
+Utah,3/19/2021,1070231
+Utah,3/20/2021,1070976
+Utah,3/21/2021,1137351
+Utah,3/22/2021,1137511
+Utah,3/23/2021,1155841
+Utah,3/24/2021,1178663
+Utah,3/25/2021,1213732
+Utah,3/26/2021,1214131
+Utah,3/27/2021,1275570
+Utah,3/28/2021,1276128
+Vermont,1/12/2021,25757
+Vermont,1/13/2021,29571
+Vermont,1/14/2021,29571
+Vermont,1/15/2021,32470
+Vermont,1/19/2021,40581
+Vermont,1/20/2021,40814
+Vermont,1/21/2021,42835
+Vermont,1/22/2021,46447
+Vermont,1/23/2021,49426
+Vermont,1/24/2021,51872
+Vermont,1/25/2021,53624
+Vermont,1/26/2021,54416
+Vermont,1/27/2021,55377
+Vermont,1/28/2021,58871
+Vermont,1/29/2021,61737
+Vermont,1/30/2021,63777
+Vermont,1/31/2021,67180
+Vermont,2/1/2021,72428
+Vermont,2/2/2021,74021
+Vermont,2/3/2021,74718
+Vermont,2/4/2021,77198
+Vermont,2/5/2021,80054
+Vermont,2/6/2021,82992
+Vermont,2/7/2021,87180
+Vermont,2/8/2021,90328
+Vermont,2/9/2021,93037
+Vermont,2/10/2021,93862
+Vermont,2/11/2021,96908
+Vermont,2/12/2021,100036
+Vermont,2/13/2021,102716
+Vermont,2/14/2021,106787
+Vermont,2/16/2021,114986
+Vermont,2/17/2021,115964
+Vermont,2/18/2021,118184
+Vermont,2/19/2021,127619
+Vermont,2/20/2021,132112
+Vermont,2/21/2021,137144
+Vermont,2/22/2021,141436
+Vermont,2/23/2021,144085
+Vermont,2/24/2021,144970
+Vermont,2/25/2021,147828
+Vermont,2/26/2021,151538
+Vermont,2/27/2021,156929
+Vermont,2/28/2021,162558
+Vermont,3/1/2021,168050
+Vermont,3/2/2021,171557
+Vermont,3/3/2021,173179
+Vermont,3/4/2021,175767
+Vermont,3/5/2021,179580
+Vermont,3/6/2021,184327
+Vermont,3/7/2021,191529
+Vermont,3/8/2021,198741
+Vermont,3/9/2021,203900
+Vermont,3/10/2021,207110
+Vermont,3/11/2021,212062
+Vermont,3/12/2021,217495
+Vermont,3/13/2021,231610
+Vermont,3/14/2021,231610
+Vermont,3/15/2021,239136
+Vermont,3/16/2021,243777
+Vermont,3/17/2021,246663
+Vermont,3/18/2021,252439
+Vermont,3/19/2021,259165
+Vermont,3/20/2021,266120
+Vermont,3/21/2021,274187
+Vermont,3/22/2021,277420
+Vermont,3/23/2021,283052
+Vermont,3/24/2021,286384
+Vermont,3/25/2021,290680
+Vermont,3/26/2021,296682
+Vermont,3/27/2021,303242
+Vermont,3/28/2021,310003
+Veterans Health,1/12/2021,226754
+Veterans Health,1/13/2021,254377
+Veterans Health,1/14/2021,284697
+Veterans Health,1/15/2021,317771
+Veterans Health,1/19/2021,416209
+Veterans Health,1/20/2021,432569
+Veterans Health,1/21/2021,527258
+Veterans Health,1/22/2021,579663
+Veterans Health,1/23/2021,623590
+Veterans Health,1/24/2021,664245
+Veterans Health,1/25/2021,702779
+Veterans Health,1/26/2021,703351
+Veterans Health,1/27/2021,746109
+Veterans Health,1/28/2021,792348
+Veterans Health,1/29/2021,841497
+Veterans Health,1/30/2021,888305
+Veterans Health,1/31/2021,932278
+Veterans Health,2/1/2021,963346
+Veterans Health,2/2/2021,973371
+Veterans Health,2/3/2021,1013974
+Veterans Health,2/4/2021,1026173
+Veterans Health,2/5/2021,1078011
+Veterans Health,2/6/2021,1130808
+Veterans Health,2/7/2021,1220300
+Veterans Health,2/8/2021,1258957
+Veterans Health,2/9/2021,1268553
+Veterans Health,2/10/2021,1322833
+Veterans Health,2/11/2021,1377358
+Veterans Health,2/12/2021,1439337
+Veterans Health,2/13/2021,1502661
+Veterans Health,2/14/2021,1600830
+Veterans Health,2/16/2021,1692702
+Veterans Health,2/17/2021,1720294
+Veterans Health,2/18/2021,1773677
+Veterans Health,2/19/2021,1815046
+Veterans Health,2/20/2021,1862965
+Veterans Health,2/21/2021,1911289
+Veterans Health,2/22/2021,1957142
+Veterans Health,2/23/2021,2002806
+Veterans Health,2/24/2021,2035752
+Veterans Health,2/25/2021,2077586
+Veterans Health,2/26/2021,2118065
+Veterans Health,2/27/2021,2238548
+Veterans Health,2/28/2021,2303674
+Veterans Health,3/1/2021,2356446
+Veterans Health,3/2/2021,2372611
+Veterans Health,3/3/2021,2420189
+Veterans Health,3/4/2021,2476015
+Veterans Health,3/5/2021,2535768
+Veterans Health,3/6/2021,2597371
+Veterans Health,3/7/2021,2658215
+Veterans Health,3/8/2021,2708426
+Veterans Health,3/9/2021,2718748
+Veterans Health,3/10/2021,2775356
+Veterans Health,3/11/2021,2844311
+Veterans Health,3/12/2021,2917334
+Veterans Health,3/13/2021,3065623
+Veterans Health,3/14/2021,3065999
+Veterans Health,3/15/2021,3146184
+Veterans Health,3/16/2021,3160693
+Veterans Health,3/17/2021,3211090
+Veterans Health,3/18/2021,3272006
+Veterans Health,3/19/2021,3333181
+Veterans Health,3/20/2021,3391329
+Veterans Health,3/21/2021,3450713
+Veterans Health,3/22/2021,3502931
+Veterans Health,3/23/2021,3512264
+Veterans Health,3/24/2021,3558131
+Veterans Health,3/25/2021,3614889
+Veterans Health,3/26/2021,3673631
+Veterans Health,3/27/2021,3735856
+Veterans Health,3/28/2021,3798767
+Virgin Islands,1/12/2021,880
+Virgin Islands,1/13/2021,1195
+Virgin Islands,1/14/2021,1424
+Virgin Islands,1/15/2021,1631
+Virgin Islands,1/19/2021,2135
+Virgin Islands,1/20/2021,2418
+Virgin Islands,1/21/2021,2744
+Virgin Islands,1/22/2021,3070
+Virgin Islands,1/23/2021,3355
+Virgin Islands,1/24/2021,3378
+Virgin Islands,1/25/2021,3399
+Virgin Islands,1/26/2021,3747
+Virgin Islands,1/27/2021,4174
+Virgin Islands,1/28/2021,4620
+Virgin Islands,1/29/2021,5256
+Virgin Islands,1/30/2021,5967
+Virgin Islands,1/31/2021,6008
+Virgin Islands,2/1/2021,6116
+Virgin Islands,2/2/2021,6709
+Virgin Islands,2/3/2021,7387
+Virgin Islands,2/4/2021,8212
+Virgin Islands,2/5/2021,8884
+Virgin Islands,2/6/2021,9466
+Virgin Islands,2/7/2021,9477
+Virgin Islands,2/8/2021,9529
+Virgin Islands,2/9/2021,10064
+Virgin Islands,2/10/2021,10718
+Virgin Islands,2/11/2021,11168
+Virgin Islands,2/12/2021,11691
+Virgin Islands,2/13/2021,12182
+Virgin Islands,2/14/2021,12288
+Virgin Islands,2/16/2021,12418
+Virgin Islands,2/17/2021,13162
+Virgin Islands,2/18/2021,13648
+Virgin Islands,2/19/2021,14851
+Virgin Islands,2/20/2021,15826
+Virgin Islands,2/21/2021,16123
+Virgin Islands,2/22/2021,16187
+Virgin Islands,2/23/2021,16893
+Virgin Islands,2/24/2021,17447
+Virgin Islands,2/25/2021,17778
+Virgin Islands,2/26/2021,18684
+Virgin Islands,2/27/2021,19118
+Virgin Islands,2/28/2021,19369
+Virgin Islands,3/1/2021,19470
+Virgin Islands,3/2/2021,19736
+Virgin Islands,3/3/2021,20149
+Virgin Islands,3/4/2021,21615
+Virgin Islands,3/5/2021,22365
+Virgin Islands,3/6/2021,23014
+Virgin Islands,3/7/2021,23033
+Virgin Islands,3/8/2021,23053
+Virgin Islands,3/9/2021,23752
+Virgin Islands,3/10/2021,24615
+Virgin Islands,3/11/2021,25361
+Virgin Islands,3/12/2021,26202
+Virgin Islands,3/13/2021,27189
+Virgin Islands,3/14/2021,27210
+Virgin Islands,3/15/2021,27261
+Virgin Islands,3/16/2021,28115
+Virgin Islands,3/17/2021,29233
+Virgin Islands,3/18/2021,30128
+Virgin Islands,3/19/2021,31142
+Virgin Islands,3/20/2021,32072
+Virgin Islands,3/21/2021,32170
+Virgin Islands,3/22/2021,32191
+Virgin Islands,3/23/2021,33239
+Virgin Islands,3/24/2021,34472
+Virgin Islands,3/25/2021,35728
+Virgin Islands,3/26/2021,36668
+Virgin Islands,3/27/2021,37770
+Virgin Islands,3/28/2021,38221
+Virginia,1/12/2021,190607
+Virginia,1/13/2021,217836
+Virginia,1/14/2021,217836
+Virginia,1/15/2021,244234
+Virginia,1/19/2021,326894
+Virginia,1/20/2021,343366
+Virginia,1/21/2021,362092
+Virginia,1/22/2021,401448
+Virginia,1/23/2021,429297
+Virginia,1/24/2021,451668
+Virginia,1/25/2021,482973
+Virginia,1/26/2021,594828
+Virginia,1/27/2021,629019
+Virginia,1/28/2021,668401
+Virginia,1/29/2021,724768
+Virginia,1/30/2021,785920
+Virginia,1/31/2021,833221
+Virginia,2/1/2021,870820
+Virginia,2/2/2021,901213
+Virginia,2/3/2021,922940
+Virginia,2/4/2021,949066
+Virginia,2/5/2021,993848
+Virginia,2/6/2021,1052577
+Virginia,2/7/2021,1103370
+Virginia,2/8/2021,1135639
+Virginia,2/9/2021,1161590
+Virginia,2/10/2021,1187340
+Virginia,2/11/2021,1223199
+Virginia,2/12/2021,1274838
+Virginia,2/13/2021,1330305
+Virginia,2/14/2021,1355231
+Virginia,2/16/2021,1431501
+Virginia,2/17/2021,1460103
+Virginia,2/18/2021,1503786
+Virginia,2/19/2021,1645485
+Virginia,2/20/2021,1671217
+Virginia,2/21/2021,1705294
+Virginia,2/22/2021,1735451
+Virginia,2/23/2021,1765927
+Virginia,2/24/2021,1803505
+Virginia,2/25/2021,1848774
+Virginia,2/26/2021,1922788
+Virginia,2/27/2021,2002734
+Virginia,2/28/2021,2086194
+Virginia,3/1/2021,2136926
+Virginia,3/2/2021,2171427
+Virginia,3/3/2021,2220648
+Virginia,3/4/2021,2284452
+Virginia,3/5/2021,2342449
+Virginia,3/6/2021,2392680
+Virginia,3/7/2021,2445932
+Virginia,3/8/2021,2486429
+Virginia,3/9/2021,2553714
+Virginia,3/10/2021,2616782
+Virginia,3/11/2021,2685399
+Virginia,3/12/2021,2753938
+Virginia,3/13/2021,2827745
+Virginia,3/14/2021,2892286
+Virginia,3/15/2021,2951945
+Virginia,3/16/2021,2987320
+Virginia,3/17/2021,3027633
+Virginia,3/18/2021,3091883
+Virginia,3/19/2021,3165336
+Virginia,3/20/2021,3243652
+Virginia,3/21/2021,3309153
+Virginia,3/22/2021,3360330
+Virginia,3/23/2021,3389780
+Virginia,3/24/2021,3469776
+Virginia,3/25/2021,3529449
+Virginia,3/26/2021,3615169
+Virginia,3/27/2021,3668360
+Virginia,3/28/2021,3778349
+Washington,1/12/2021,195567
+Washington,1/13/2021,208238
+Washington,1/14/2021,225238
+Washington,1/15/2021,242606
+Washington,1/19/2021,321200
+Washington,1/20/2021,346765
+Washington,1/21/2021,373423
+Washington,1/22/2021,403135
+Washington,1/23/2021,436997
+Washington,1/24/2021,449385
+Washington,1/25/2021,488785
+Washington,1/26/2021,507610
+Washington,1/27/2021,534445
+Washington,1/28/2021,571135
+Washington,1/29/2021,607071
+Washington,1/30/2021,643951
+Washington,1/31/2021,684344
+Washington,2/1/2021,720603
+Washington,2/2/2021,741769
+Washington,2/3/2021,765954
+Washington,2/4/2021,797358
+Washington,2/5/2021,827944
+Washington,2/6/2021,867773
+Washington,2/7/2021,905118
+Washington,2/8/2021,937926
+Washington,2/9/2021,951204
+Washington,2/10/2021,1008946
+Washington,2/11/2021,1040044
+Washington,2/12/2021,1080510
+Washington,2/13/2021,1121779
+Washington,2/14/2021,1166471
+Washington,2/16/2021,1201284
+Washington,2/17/2021,1225920
+Washington,2/18/2021,1255764
+Washington,2/19/2021,1362197
+Washington,2/20/2021,1407229
+Washington,2/21/2021,1444507
+Washington,2/22/2021,1479352
+Washington,2/23/2021,1493572
+Washington,2/24/2021,1514416
+Washington,2/25/2021,1562425
+Washington,2/26/2021,1609190
+Washington,2/27/2021,1666839
+Washington,2/28/2021,1729208
+Washington,3/1/2021,1800030
+Washington,3/2/2021,1841160
+Washington,3/3/2021,1888198
+Washington,3/4/2021,1942877
+Washington,3/5/2021,2001032
+Washington,3/6/2021,2071467
+Washington,3/7/2021,2143916
+Washington,3/8/2021,2213284
+Washington,3/9/2021,2255182
+Washington,3/10/2021,2303420
+Washington,3/11/2021,2381471
+Washington,3/12/2021,2441777
+Washington,3/13/2021,2501778
+Washington,3/14/2021,2562529
+Washington,3/15/2021,2626048
+Washington,3/16/2021,2665688
+Washington,3/17/2021,2705839
+Washington,3/18/2021,2763105
+Washington,3/19/2021,2823446
+Washington,3/20/2021,2889480
+Washington,3/21/2021,2972560
+Washington,3/22/2021,3045597
+Washington,3/23/2021,3068976
+Washington,3/24/2021,3108315
+Washington,3/25/2021,3170650
+Washington,3/26/2021,3251437
+Washington,3/27/2021,3330877
+Washington,3/28/2021,3419568
+West Virginia,1/12/2021,103330
+West Virginia,1/13/2021,110709
+West Virginia,1/14/2021,118660
+West Virginia,1/15/2021,134207
+West Virginia,1/19/2021,152657
+West Virginia,1/20/2021,158621
+West Virginia,1/21/2021,167548
+West Virginia,1/22/2021,180762
+West Virginia,1/23/2021,194844
+West Virginia,1/24/2021,202883
+West Virginia,1/25/2021,203992
+West Virginia,1/26/2021,210492
+West Virginia,1/27/2021,214926
+West Virginia,1/28/2021,224604
+West Virginia,1/29/2021,239963
+West Virginia,1/30/2021,256401
+West Virginia,1/31/2021,259774
+West Virginia,2/1/2021,260325
+West Virginia,2/2/2021,264205
+West Virginia,2/3/2021,268065
+West Virginia,2/4/2021,276753
+West Virginia,2/5/2021,291819
+West Virginia,2/6/2021,314870
+West Virginia,2/7/2021,322046
+West Virginia,2/8/2021,323387
+West Virginia,2/9/2021,327414
+West Virginia,2/10/2021,332577
+West Virginia,2/11/2021,340780
+West Virginia,2/12/2021,351427
+West Virginia,2/13/2021,376113
+West Virginia,2/14/2021,386583
+West Virginia,2/16/2021,393643
+West Virginia,2/17/2021,396009
+West Virginia,2/18/2021,403532
+West Virginia,2/19/2021,440614
+West Virginia,2/20/2021,458087
+West Virginia,2/21/2021,463513
+West Virginia,2/22/2021,465593
+West Virginia,2/23/2021,470643
+West Virginia,2/24/2021,474477
+West Virginia,2/25/2021,485535
+West Virginia,2/26/2021,501913
+West Virginia,2/27/2021,526059
+West Virginia,2/28/2021,532295
+West Virginia,3/1/2021,534053
+West Virginia,3/2/2021,536534
+West Virginia,3/3/2021,541453
+West Virginia,3/4/2021,553449
+West Virginia,3/5/2021,574473
+West Virginia,3/6/2021,594118
+West Virginia,3/7/2021,601440
+West Virginia,3/8/2021,602407
+West Virginia,3/9/2021,606345
+West Virginia,3/10/2021,611113
+West Virginia,3/11/2021,626149
+West Virginia,3/12/2021,651835
+West Virginia,3/13/2021,679347
+West Virginia,3/14/2021,684336
+West Virginia,3/15/2021,686081
+West Virginia,3/16/2021,689649
+West Virginia,3/17/2021,695358
+West Virginia,3/18/2021,709770
+West Virginia,3/19/2021,732433
+West Virginia,3/20/2021,756418
+West Virginia,3/21/2021,763619
+West Virginia,3/22/2021,764903
+West Virginia,3/23/2021,769358
+West Virginia,3/24/2021,777941
+West Virginia,3/25/2021,793552
+West Virginia,3/26/2021,819288
+West Virginia,3/27/2021,846624
+West Virginia,3/28/2021,856921
+Wisconsin,1/12/2021,137253
+Wisconsin,1/13/2021,137253
+Wisconsin,1/14/2021,149955
+Wisconsin,1/15/2021,169803
+Wisconsin,1/19/2021,213498
+Wisconsin,1/20/2021,222492
+Wisconsin,1/21/2021,238758
+Wisconsin,1/22/2021,260821
+Wisconsin,1/23/2021,285630
+Wisconsin,1/24/2021,308290
+Wisconsin,1/25/2021,315876
+Wisconsin,1/26/2021,318096
+Wisconsin,1/27/2021,335519
+Wisconsin,1/28/2021,361917
+Wisconsin,1/29/2021,406869
+Wisconsin,1/30/2021,450251
+Wisconsin,1/31/2021,491058
+Wisconsin,2/1/2021,513385
+Wisconsin,2/2/2021,522034
+Wisconsin,2/3/2021,548172
+Wisconsin,2/4/2021,548912
+Wisconsin,2/5/2021,595152
+Wisconsin,2/6/2021,638241
+Wisconsin,2/7/2021,742527
+Wisconsin,2/8/2021,763252
+Wisconsin,2/9/2021,769314
+Wisconsin,2/10/2021,796703
+Wisconsin,2/11/2021,826275
+Wisconsin,2/12/2021,864476
+Wisconsin,2/13/2021,916129
+Wisconsin,2/14/2021,955412
+Wisconsin,2/16/2021,991691
+Wisconsin,2/17/2021,1012491
+Wisconsin,2/18/2021,1040145
+Wisconsin,2/19/2021,1137395
+Wisconsin,2/20/2021,1188631
+Wisconsin,2/21/2021,1230619
+Wisconsin,2/22/2021,1252322
+Wisconsin,2/23/2021,1259647
+Wisconsin,2/24/2021,1282723
+Wisconsin,2/25/2021,1314188
+Wisconsin,2/26/2021,1359943
+Wisconsin,2/27/2021,1421435
+Wisconsin,2/28/2021,1470570
+Wisconsin,3/1/2021,1500923
+Wisconsin,3/2/2021,1521200
+Wisconsin,3/3/2021,1553270
+Wisconsin,3/4/2021,1596290
+Wisconsin,3/5/2021,1656753
+Wisconsin,3/6/2021,1721352
+Wisconsin,3/7/2021,1770069
+Wisconsin,3/8/2021,1804918
+Wisconsin,3/9/2021,1812456
+Wisconsin,3/10/2021,1839822
+Wisconsin,3/11/2021,1881901
+Wisconsin,3/12/2021,1944768
+Wisconsin,3/13/2021,2071836
+Wisconsin,3/14/2021,2072866
+Wisconsin,3/15/2021,2107896
+Wisconsin,3/16/2021,2130926
+Wisconsin,3/17/2021,2160948
+Wisconsin,3/18/2021,2210128
+Wisconsin,3/19/2021,2271149
+Wisconsin,3/20/2021,2343615
+Wisconsin,3/21/2021,2422908
+Wisconsin,3/22/2021,2462081
+Wisconsin,3/23/2021,2480311
+Wisconsin,3/24/2021,2516425
+Wisconsin,3/25/2021,2576727
+Wisconsin,3/26/2021,2654772
+Wisconsin,3/27/2021,2736745
+Wisconsin,3/28/2021,2808953
+Wyoming,1/12/2021,16467
+Wyoming,1/13/2021,17794
+Wyoming,1/14/2021,19776
+Wyoming,1/15/2021,22745
+Wyoming,1/19/2021,28057
+Wyoming,1/20/2021,29309
+Wyoming,1/21/2021,29309
+Wyoming,1/22/2021,34547
+Wyoming,1/23/2021,37559
+Wyoming,1/24/2021,40803
+Wyoming,1/25/2021,41156
+Wyoming,1/26/2021,41339
+Wyoming,1/27/2021,43425
+Wyoming,1/28/2021,43425
+Wyoming,1/29/2021,49166
+Wyoming,1/30/2021,49166
+Wyoming,1/31/2021,57023
+Wyoming,2/1/2021,58721
+Wyoming,2/2/2021,59018
+Wyoming,2/3/2021,60775
+Wyoming,2/4/2021,60775
+Wyoming,2/5/2021,67417
+Wyoming,2/6/2021,71858
+Wyoming,2/7/2021,71858
+Wyoming,2/8/2021,76457
+Wyoming,2/9/2021,76457
+Wyoming,2/10/2021,79515
+Wyoming,2/11/2021,79515
+Wyoming,2/12/2021,89138
+Wyoming,2/13/2021,89138
+Wyoming,2/14/2021,99099
+Wyoming,2/16/2021,100186
+Wyoming,2/17/2021,100186
+Wyoming,2/18/2021,105426
+Wyoming,2/19/2021,124310
+Wyoming,2/20/2021,129060
+Wyoming,2/21/2021,129470
+Wyoming,2/22/2021,135635
+Wyoming,2/23/2021,136163
+Wyoming,2/24/2021,136366
+Wyoming,2/25/2021,141545
+Wyoming,2/26/2021,145577
+Wyoming,2/27/2021,151584
+Wyoming,2/28/2021,156397
+Wyoming,3/1/2021,156741
+Wyoming,3/2/2021,156776
+Wyoming,3/3/2021,162918
+Wyoming,3/4/2021,163194
+Wyoming,3/5/2021,166712
+Wyoming,3/6/2021,177496
+Wyoming,3/7/2021,178035
+Wyoming,3/8/2021,185580
+Wyoming,3/9/2021,185813
+Wyoming,3/10/2021,190180
+Wyoming,3/11/2021,190570
+Wyoming,3/12/2021,199232
+Wyoming,3/13/2021,206091
+Wyoming,3/14/2021,211910
+Wyoming,3/15/2021,212499
+Wyoming,3/16/2021,213969
+Wyoming,3/17/2021,214015
+Wyoming,3/18/2021,214050
+Wyoming,3/19/2021,220735
+Wyoming,3/20/2021,220993
+Wyoming,3/21/2021,221336
+Wyoming,3/22/2021,221452
+Wyoming,3/23/2021,235171
+Wyoming,3/24/2021,235424
+Wyoming,3/25/2021,242919
+Wyoming,3/26/2021,243336
+Wyoming,3/27/2021,243604
+Wyoming,3/28/2021,244038

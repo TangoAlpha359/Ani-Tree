@@ -1,0 +1,15 @@
+body {
+  margin: 3rem 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.vis-wrapper {
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  font-family: inherit;
+}
+
+.vis-wrapper > * + * {
+  margin-top: 2rem;
+}

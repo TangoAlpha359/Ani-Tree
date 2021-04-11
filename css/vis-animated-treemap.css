@@ -1,0 +1,51 @@
+.vis-animated-treemap {
+  font-size: 10px;
+  font-variant-numeric: tabular-nums;
+}
+
+.vis-animated-treemap > svg {
+  overflow: visible;
+}
+
+.vis-animated-treemap .box-rect {
+  stroke: #ccc;
+  fill: none;
+}
+
+.vis-animated-treemap .box-label-date {
+  fill: #777;
+  font-weight: bold;
+}
+
+.vis-animated-treemap .box-label-value {
+  fill: #777;
+}
+
+.vis-animated-treemap .treemap-leaf-rect.northeast {
+  fill: #fdbf6f;
+}
+
+.vis-animated-treemap .treemap-leaf-rect.midwest {
+  fill: #b2df8a;
+}
+
+.vis-animated-treemap .treemap-leaf-rect.south {
+  fill: #a6cee3;
+}
+
+.vis-animated-treemap .treemap-leaf-rect.west {
+  fill: #fb9a99;
+}
+
+.vis-animated-treemap .treemap-leaf-rect.other {
+  fill: #ffffad;
+}
+
+.vis-animated-treemap .treemap-leaf-label-state {
+  fill: #444;
+  font-weight: bold;
+}
+
+.vis-animated-treemap .treemap-leaf-label-value {
+  fill: #444;
+}
