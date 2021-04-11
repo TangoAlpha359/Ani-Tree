@@ -5,7 +5,7 @@ function visScrubber(
     format = (value) => value,
     initial = 0,
     delay = null,
-    autoplay = false,
+    autoplay = true,
     loop = true,
     alternate = false,
   } = {}

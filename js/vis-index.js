@@ -7,7 +7,7 @@
     .then(init);
 
   function init(data) {
-    const duration = 2500; // Animation step duration
+    const duration = 2000; // Animation step duration (shorter is faster)
 
     const scrubber = visScrubber(
       d3.range(data.keys.length),
@@ -15,7 +15,7 @@
       {
         format: (i) => d3.utcFormat("%b %d, %Y")(data.keys[i]),
         delay: duration,
-        autoplay: false, //True
+        autoplay: true, //True
         loop: false,
       }
     );
