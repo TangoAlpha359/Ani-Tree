@@ -3,6 +3,23 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+  margin: 3rem 1rem;
+  font-family: Tahoma, sans-serif;
+  margin-right: 0.4em;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: rgb(30, 23, 92);
+}
+
+h5 {
+  margin: 0rem 0rem;
+  font-family: Tahoma, sans-serif;
+  font-size: 8;
+  margin-right: 0.5em;
+  text-align: right;
+}
+
 .vis-wrapper {
   width: 100%;
   max-width: 960px;
