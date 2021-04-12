@@ -44,6 +44,7 @@
 .vis-animated-treemap .treemap-leaf-label-state {
   fill: #444;
   font-weight: bold;
+  font-size: auto;
 }
 
 .vis-animated-treemap .treemap-leaf-label-value {

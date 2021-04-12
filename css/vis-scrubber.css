@@ -55,7 +55,7 @@
 }
 
 .vis-scrubber input {
-  width: 280px; /* length of progress bar */
+  width: 300px; /* length of progress bar */
 }
 
 .vis-scrubber .output {
