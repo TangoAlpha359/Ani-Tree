@@ -15,7 +15,7 @@
       {
         format: (i) => d3.utcFormat("%b %d, %Y")(data.keys[i]),
         delay: duration,
-        autoplay: true, //True
+        autoplay: true, //True (need to use both)
         loop: false,
       }
     );
