@@ -13,7 +13,7 @@
       d3.range(data.keys.length),
       d3.select("#vis-scrubber"),
       {
-        format: (i) => d3.utcFormat("%b %d, %Y")(data.keys[i]),
+        format: (i) => d3.utcFormat("%b %d, %y")(data.keys[i]),
         delay: duration,
         autoplay: true, //True (need to use both)
         loop: false,
