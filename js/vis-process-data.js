@@ -5,7 +5,7 @@ function visProcessData([doses, regions]) {
 
   // Accessor for the doses data
   const stateAccessor = (d) => d.Entity;
-  const dateAccessor = (d) => d3.utcParse("%-m/%-d/%Y")(d.Day);
+  const dateAccessor = (d) => d3.utcParse("%-m/%-d/%y")(d.Day);
   const valueAccessor = (d) => +d.total_vaccinations;
 
   // Use dates as keys
